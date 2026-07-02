@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Language Arts Mid-Year Quiz</title>
+  <meta name="description" content="9th Grade Language Arts revision quiz with instant correction and diagnostics." />
+  <link rel="icon" type="image/png" href="assets/logo.png" />
+  <link rel="stylesheet" href="css/language-arts-quiz.css" />
+</head>
+<body>
+  <main class="quiz-shell">
+    <section class="topbar" aria-label="Quiz summary">
+      <div>
+        <p class="eyebrow">Escola Eleva | 9th Grade</p>
+        <h1>Language Arts Revision Arena</h1>
+      </div>
+      <div class="top-actions">
+        <button class="ghost-button" id="shuffleBtn" type="button">Shuffle</button>
+        <button class="danger-button" id="resetBtn" type="button">Reset</button>
+      </div>
+    </section>
+
+    <section class="metrics-grid" aria-label="Performance metrics">
+      <article class="metric">
+        <span>Score</span>
+        <strong id="scoreValue">0%</strong>
+      </article>
+      <article class="metric">
+        <span>Answered</span>
+        <strong id="answeredValue">0 / 0</strong>
+      </article>
+      <article class="metric">
+        <span>Points</span>
+        <strong id="pointsValue">0</strong>
+      </article>
+      <article class="metric">
+        <span>Streak</span>
+        <strong id="streakValue">0</strong>
+      </article>
+    </section>
+
+    <section class="workspace">
+      <aside class="sidebar" aria-label="Quiz controls and diagnosis">
+        <label class="control-label" for="topicFilter">Topic</label>
+        <select id="topicFilter"></select>
+
+        <label class="control-label" for="modeFilter">Mode</label>
+        <select id="modeFilter">
+          <option value="all">All questions</option>
+          <option value="unanswered">Unanswered only</option>
+          <option value="missed">Missed questions</option>
+        </select>
+
+        <div class="progress-block">
+          <div class="progress-track"><div id="progressFill"></div></div>
+          <p id="progressText">Progress will appear here.</p>
+        </div>
+
+        <div class="diagnosis">
+          <h2>Diagnosis</h2>
+          <div id="diagnosisList"></div>
+        </div>
+      </aside>
+
+      <section class="question-panel" aria-live="polite">
+        <div class="question-meta">
+          <span id="questionNumber">Question 1</span>
+          <span id="questionTopic">Topic</span>
+          <span id="questionDifficulty">Medium</span>
+        </div>
+        <h2 id="questionPrompt"></h2>
+        <form id="answerForm">
+          <div id="answerArea"></div>
+          <button class="primary-button" id="submitBtn" type="submit">Submit Answer</button>
+        </form>
+        <div class="feedback" id="feedbackPanel" hidden></div>
+        <div class="nav-row">
+          <button class="ghost-button" id="prevBtn" type="button">Previous</button>
+          <button class="ghost-button" id="nextBtn" type="button">Next</button>
+        </div>
+      </section>
+    </section>
+  </main>
+
+  <script src="data/la-midyear-question-bank.js"></script>
+  <script src="js/language-arts-quiz.js"></script>
+</body>
+</html>
