@@ -1,0 +1,5993 @@
+window.LA_MIDYEAR_QUESTION_BANK = {
+  "metadata": {
+    "title": "Escola Eleva Language Arts 9th Grade Mid-Year Revision Quiz",
+    "source": "Revision booklet pasted into Codex attachment, analysed into major exam strands.",
+    "generatedAt": "2026-07-02T00:14:54.407Z",
+    "maxQuestions": 200,
+    "topics": [
+      "Purple Hibiscus: character, structure, symbolism",
+      "Animal Farm: allegory, propaganda, disillusionment",
+      "Rhetorical techniques and propaganda",
+      "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "Analytical and creative exam writing"
+    ],
+    "auditRequirement": "State-of-the-art classroom quiz checks: answerability, single-key MCQ correctness, feedback, coverage, difficulty balance, persistence readiness."
+  },
+  "questions": [
+    {
+      "id": "PH-001",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Kambili's physical paralysis",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: What does Adichie suggest through Kambili's repeated inability to speak? Consider the booklet focus on recurring imagery and the detail \"lips held stubbornly together / could not move my tongue\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kambili is uninterested in the people around her."
+        },
+        {
+          "id": "B",
+          "text": "Her silence is a physical sign of internal conflict and fear created by Papa's control."
+        },
+        {
+          "id": "C",
+          "text": "The scene mainly proves that Kambili dislikes food."
+        },
+        {
+          "id": "D",
+          "text": "Kambili refuses to speak because she wants to punish Amaka."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "Her silence is a physical sign of internal conflict and fear created by Papa's control.",
+      "explanation": "The strongest reading connects the bodily imagery to repression, fear, and self-expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Kambili's physical paralysis"
+      ],
+      "points": 14
+    },
+    {
+      "id": "PH-SA-002",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Kambili's physical paralysis",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: In 25-50 words, analyse how recurring imagery deepens the meaning of Kambili's physical paralysis. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "recurring",
+        "kambili's"
+      ],
+      "sampleAnswer": "Her silence is a physical sign of internal conflict and fear created by Papa's control. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The strongest reading connects the bodily imagery to repression, fear, and self-expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Kambili's physical paralysis"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-003",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Jaja in Nsukka",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: What does the \"piercing light\" in Jaja's eyes most strongly symbolise? Consider the booklet focus on symbolism and the detail \"piercing light in his eyes\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A loss of interest in politics and history."
+        },
+        {
+          "id": "B",
+          "text": "A new independence that begins to challenge Papa's authority."
+        },
+        {
+          "id": "C",
+          "text": "A sudden illness caused by the heat."
+        },
+        {
+          "id": "D",
+          "text": "A return to complete obedience at home."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "A new independence that begins to challenge Papa's authority.",
+      "explanation": "Jaja becomes more dynamic in Nsukka; the light signals awakening and resistance.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Jaja in Nsukka"
+      ],
+      "points": 14
+    },
+    {
+      "id": "PH-SA-004",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Jaja in Nsukka",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: In 25-50 words, analyse how symbolism deepens the meaning of Jaja in Nsukka. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "symbolism",
+        "jaja"
+      ],
+      "sampleAnswer": "A new independence that begins to challenge Papa's authority. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "Jaja becomes more dynamic in Nsukka; the light signals awakening and resistance.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Jaja in Nsukka"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-005",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Enugu versus Nsukka",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: Why is the contrast between Enugu and Nsukka important? Consider the booklet focus on juxtaposition and the detail \"home / Aunty Ifeoma's garden\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change."
+        },
+        {
+          "id": "B",
+          "text": "It removes the importance of family relationships."
+        },
+        {
+          "id": "C",
+          "text": "It proves that all conflict in the novel is caused by weather."
+        },
+        {
+          "id": "D",
+          "text": "It shows that Kambili and Jaja have no internal conflict."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change.",
+      "explanation": "The homes work as contrasting social worlds: control in Enugu, possibility in Nsukka.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Enugu versus Nsukka"
+      ],
+      "points": 14
+    },
+    {
+      "id": "PH-SA-006",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Enugu versus Nsukka",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: In 25-50 words, analyse how juxtaposition deepens the meaning of Enugu versus Nsukka. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "juxtaposition",
+        "enugu"
+      ],
+      "sampleAnswer": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The homes work as contrasting social worlds: control in Enugu, possibility in Nsukka.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Enugu versus Nsukka"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-007",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Amaka and Kambili",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: How does Amaka function as a foil to Kambili? Consider the booklet focus on character foil and the detail \"atulu\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Amaka's blunt speech highlights Kambili's silence and lack of agency."
+        },
+        {
+          "id": "B",
+          "text": "Amaka and Kambili are identical in confidence and speech."
+        },
+        {
+          "id": "C",
+          "text": "Amaka exists only to explain the plot chronologically."
+        },
+        {
+          "id": "D",
+          "text": "Amaka proves Kambili is naturally cruel."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Amaka's blunt speech highlights Kambili's silence and lack of agency.",
+      "explanation": "A foil exposes a character by contrast. Amaka makes Kambili's repression visible.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Amaka and Kambili"
+      ],
+      "points": 14
+    },
+    {
+      "id": "PH-SA-008",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Amaka and Kambili",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: In 25-50 words, analyse how character foil deepens the meaning of Amaka and Kambili. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "character",
+        "amaka"
+      ],
+      "sampleAnswer": "Amaka's blunt speech highlights Kambili's silence and lack of agency. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "A foil exposes a character by contrast. Amaka makes Kambili's repression visible.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Amaka and Kambili"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-009",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Father Amadi",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: Why can Father Amadi be read as a catalyst for Kambili? Consider the booklet focus on catalyst and the detail \"I haven't seen you laugh or smile today\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "He notices her joy and humanity, challenging her single story of herself as silent."
+        },
+        {
+          "id": "B",
+          "text": "He makes her reject all forms of faith."
+        },
+        {
+          "id": "C",
+          "text": "He prevents her from developing any self-awareness."
+        },
+        {
+          "id": "D",
+          "text": "He pressures her to imitate Papa's strictness."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "He notices her joy and humanity, challenging her single story of herself as silent.",
+      "explanation": "A catalyst triggers change. Father Amadi draws attention to Kambili's buried desire for expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Father Amadi"
+      ],
+      "points": 14
+    },
+    {
+      "id": "PH-SA-010",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Father Amadi",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: In 25-50 words, analyse how catalyst deepens the meaning of Father Amadi. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "catalyst",
+        "father"
+      ],
+      "sampleAnswer": "He notices her joy and humanity, challenging her single story of herself as silent. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "A catalyst triggers change. Father Amadi draws attention to Kambili's buried desire for expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Father Amadi"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-011",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Ube scene",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: What does the ube most plausibly symbolise in the Father Amadi scene? Consider the booklet focus on sensory symbolism and the detail \"could not lick the ube flesh from the seed\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A symbol that Papa has become more permissive."
+        },
+        {
+          "id": "B",
+          "text": "A simple dislike of Nigerian food."
+        },
+        {
+          "id": "C",
+          "text": "Kambili's difficulty engaging with desire while feeling watched and judged."
+        },
+        {
+          "id": "D",
+          "text": "A comic break with no link to characterisation."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Kambili's difficulty engaging with desire while feeling watched and judged.",
+      "explanation": "The sensory image turns attraction, shame, and self-consciousness into a concrete action.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Ube scene"
+      ],
+      "points": 14
+    },
+    {
+      "id": "PH-SA-012",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Ube scene",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: In 25-50 words, analyse how sensory symbolism deepens the meaning of Ube scene. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "sensory",
+        "ube"
+      ],
+      "sampleAnswer": "Kambili's difficulty engaging with desire while feeling watched and judged. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The sensory image turns attraction, shame, and self-consciousness into a concrete action.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Ube scene"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-013",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Squealer as propagandist",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: What is Squealer's central role in Animal Farm? Focus on allegory.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes."
+        },
+        {
+          "id": "B",
+          "text": "He leads the rebellion through physical courage."
+        },
+        {
+          "id": "C",
+          "text": "He is the only animal who consistently opposes Napoleon."
+        },
+        {
+          "id": "D",
+          "text": "He represents the working class that is exploited by the pigs."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes.",
+      "explanation": "Squealer is the regime's voice: he distorts truth, reframes abuse, and manufactures consent.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Squealer as propagandist"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-014",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Squealer as propagandist",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: Write a 30-60 word answer explaining how Squealer as propagandist connects to allegory in Animal Farm.",
+      "requiredKeywords": [
+        "squealer",
+        "allegory"
+      ],
+      "sampleAnswer": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Squealer is the regime's voice: he distorts truth, reframes abuse, and manufactures consent.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Squealer as propagandist"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-015",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Boxer van scene",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: Why is Boxer's removal in the van a moment of tragic irony? Focus on tragic irony.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Boxer knowingly betrays the other animals."
+        },
+        {
+          "id": "B",
+          "text": "The animals immediately overthrow Napoleon after reading the van."
+        },
+        {
+          "id": "C",
+          "text": "The loyal worker trusts the system that secretly sells him to his death."
+        },
+        {
+          "id": "D",
+          "text": "The van proves retirement was honestly provided."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "The loyal worker trusts the system that secretly sells him to his death.",
+      "explanation": "The audience understands the betrayal while Boxer remains tragically vulnerable.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Boxer van scene"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-016",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Boxer van scene",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: Write a 30-60 word answer explaining how Boxer van scene connects to tragic irony in Animal Farm.",
+      "requiredKeywords": [
+        "boxer",
+        "tragic"
+      ],
+      "sampleAnswer": "The loyal worker trusts the system that secretly sells him to his death. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "The audience understands the betrayal while Boxer remains tragically vulnerable.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Boxer van scene"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-017",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Benjamin",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: What does Benjamin's reaction to Boxer's van reveal? Focus on disillusionment.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer."
+        },
+        {
+          "id": "B",
+          "text": "He has always been fully optimistic about Animalism."
+        },
+        {
+          "id": "C",
+          "text": "He is unable to read the words on the van."
+        },
+        {
+          "id": "D",
+          "text": "He is responsible for planning Napoleon's propaganda."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer.",
+      "explanation": "Benjamin knows enough to see the truth, but his usual detachment cannot undo the betrayal.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Benjamin"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-018",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Benjamin",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: Write a 30-60 word answer explaining how Benjamin connects to disillusionment in Animal Farm.",
+      "requiredKeywords": [
+        "benjamin",
+        "disillusionment"
+      ],
+      "sampleAnswer": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Benjamin knows enough to see the truth, but his usual detachment cannot undo the betrayal.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Benjamin"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-019",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Clover",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: What does Clover's desperate chase after the van emphasise? Focus on visual imagery.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals."
+        },
+        {
+          "id": "B",
+          "text": "Her indifference toward Boxer's fate."
+        },
+        {
+          "id": "C",
+          "text": "Her complete understanding of propaganda from the start."
+        },
+        {
+          "id": "D",
+          "text": "Her desire to become one of the pigs."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals.",
+      "explanation": "Clover's physical struggle makes the emotional collapse of Animalism visible.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Clover"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-020",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Clover",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: Write a 30-60 word answer explaining how Clover connects to visual imagery in Animal Farm.",
+      "requiredKeywords": [
+        "clover",
+        "visual"
+      ],
+      "sampleAnswer": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Clover's physical struggle makes the emotional collapse of Animalism visible.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Clover"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-021",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Historical allegory",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: In the booklet's focus, Animal Farm should be read as what kind of work? Focus on allegory.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A realistic farming manual with no symbolic layer."
+        },
+        {
+          "id": "B",
+          "text": "A grammar workbook about passive voice."
+        },
+        {
+          "id": "C",
+          "text": "An allegory in which characters and events represent political figures, systems, and betrayals."
+        },
+        {
+          "id": "D",
+          "text": "A romance whose main purpose is courtship."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "An allegory in which characters and events represent political figures, systems, and betrayals.",
+      "explanation": "The exam asks students to connect story details to broader historical and political meanings.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Historical allegory"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-022",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Historical allegory",
+      "difficulty": "hard",
+      "prompt": "Practice set 1: Write a 30-60 word answer explaining how Historical allegory connects to allegory in Animal Farm.",
+      "requiredKeywords": [
+        "historical",
+        "allegory"
+      ],
+      "sampleAnswer": "An allegory in which characters and events represent political figures, systems, and betrayals. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "The exam asks students to connect story details to broader historical and political meanings.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Historical allegory"
+      ],
+      "points": 16
+    },
+    {
+      "id": "RT-023",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "ethos",
+      "difficulty": "easy",
+      "prompt": "Practice set 1: Which definition best matches ethos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "C",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "D",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "appeal to credibility, trust, authority, or moral character",
+      "explanation": "ethos means appeal to credibility, trust, authority, or moral character. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "ethos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-024",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "logos",
+      "difficulty": "easy",
+      "prompt": "Practice set 1: Which definition best matches logos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "C",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "D",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "appeal to logic, evidence, cause and effect, or reason",
+      "explanation": "logos means appeal to logic, evidence, cause and effect, or reason. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "logos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-025",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "pathos",
+      "difficulty": "easy",
+      "prompt": "Practice set 1: Which definition best matches pathos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "C",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "D",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "appeal to emotion such as fear, pity, pride, or hope",
+      "explanation": "pathos means appeal to emotion such as fear, pity, pride, or hope. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "pathos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-026",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "bandwagon",
+      "difficulty": "easy",
+      "prompt": "Practice set 1: Which definition best matches bandwagon?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "D",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "pressure to agree because everyone supposedly does",
+      "explanation": "bandwagon means pressure to agree because everyone supposedly does. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "bandwagon"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-027",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "loaded words",
+      "difficulty": "easy",
+      "prompt": "Practice set 1: Which definition best matches loaded words?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "emotionally charged language used to influence judgement"
+        },
+        {
+          "id": "D",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "emotionally charged language used to influence judgement",
+      "explanation": "loaded words means emotionally charged language used to influence judgement. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "loaded words"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-028",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "repetition",
+      "difficulty": "easy",
+      "prompt": "Practice set 1: Which definition best matches repetition?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "D",
+          "text": "reusing words or structures to make an idea memorable"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "reusing words or structures to make an idea memorable",
+      "explanation": "repetition means reusing words or structures to make an idea memorable. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "repetition"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-029",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "call to action",
+      "difficulty": "easy",
+      "prompt": "Practice set 1: Which definition best matches call to action?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "D",
+          "text": "a direct push for the audience to do something"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "a direct push for the audience to do something",
+      "explanation": "call to action means a direct push for the audience to do something. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "call to action"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-030",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "relative clauses",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: Choose the sentence with a correct non-defining relative clause.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Aunty Ifeoma, which encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "B",
+          "text": "Aunty Ifeoma, whose encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "C",
+          "text": "Aunty Ifeoma, who encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "D",
+          "text": "Aunty Ifeoma who encourages open debate acts as a foil to Papa."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Aunty Ifeoma, who encourages open debate, acts as a foil to Papa.",
+      "explanation": "Non-defining clauses add extra information and need commas; use \"who\" for people.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "relative clauses"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-031",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "passive voice",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: Which sentence uses the passive voice accurately?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Boxer takes away the van by the animals."
+        },
+        {
+          "id": "B",
+          "text": "The animals taking Boxer away is passive voice."
+        },
+        {
+          "id": "C",
+          "text": "Boxer has take away in a van."
+        },
+        {
+          "id": "D",
+          "text": "Boxer is taken away in a van marked by words the animals slowly understand."
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "Boxer is taken away in a van marked by words the animals slowly understand.",
+      "explanation": "Passive voice uses a form of \"be\" plus the past participle: is taken, was written, were betrayed.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "passive voice"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-032",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "adjective/adverb",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: Choose the sentence with the correct adjective/adverb form.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Squealer speaks persuasively, but his argument is dishonestly."
+        },
+        {
+          "id": "B",
+          "text": "Squealer speaks persuasively, but his argument is dishonest."
+        },
+        {
+          "id": "C",
+          "text": "Squealer speaks persuasive, but his argument is dishonestly."
+        },
+        {
+          "id": "D",
+          "text": "Squealer speaks persuasive, but his argument is dishonest."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "Squealer speaks persuasively, but his argument is dishonest.",
+      "explanation": "Adverbs usually modify verbs; adjectives modify nouns.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "adjective/adverb"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-033",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "order of adjectives",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: Which phrase uses the most natural order of adjectives?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "an old wooden small box"
+        },
+        {
+          "id": "B",
+          "text": "a small wooden old box"
+        },
+        {
+          "id": "C",
+          "text": "a small old wooden box"
+        },
+        {
+          "id": "D",
+          "text": "a wooden small old box"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "a small old wooden box",
+      "explanation": "English adjective order usually moves from size/age/material before the noun.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "order of adjectives"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-034",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "tense contrast",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: Choose the sentence that correctly combines past simple and past continuous.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Clover has running after the van when Boxer appears at the window."
+        },
+        {
+          "id": "B",
+          "text": "Clover was run after the van when Boxer appearing at the window."
+        },
+        {
+          "id": "C",
+          "text": "Clover was running after the van when Boxer appeared at the window."
+        },
+        {
+          "id": "D",
+          "text": "Clover ran after the van when Boxer was appear at the window."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Clover was running after the van when Boxer appeared at the window.",
+      "explanation": "Past continuous describes the ongoing action; past simple marks the interrupting event.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "tense contrast"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-035",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "present perfect",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: Which sentence uses the present perfect correctly?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kambili has learned that silence can be challenged."
+        },
+        {
+          "id": "B",
+          "text": "Kambili has learn that silence can be challenged."
+        },
+        {
+          "id": "C",
+          "text": "Kambili learned since that silence can be challenged."
+        },
+        {
+          "id": "D",
+          "text": "Kambili have learned that silence can be challenged."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Kambili has learned that silence can be challenged.",
+      "explanation": "Present perfect uses has/have plus past participle and can connect past learning to the present.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "present perfect"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-036",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "cleft sentence",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: Which sentence uses a cleft structure correctly?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It is Squealer who turns Napoleon's decisions into persuasive propaganda."
+        },
+        {
+          "id": "B",
+          "text": "It is Squealer which turn Napoleon's decisions."
+        },
+        {
+          "id": "C",
+          "text": "What is Squealer who turns Napoleon's decisions."
+        },
+        {
+          "id": "D",
+          "text": "It Squealer who turns Napoleon's decisions into persuasive propaganda."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "It is Squealer who turns Napoleon's decisions into persuasive propaganda.",
+      "explanation": "Cleft sentences emphasise information using structures like \"It is X who...\" or \"What...\"",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "cleft sentence"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-037",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "negative inversion",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: Choose the correct negative inversion.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Never had the animals felt such painful disillusionment."
+        },
+        {
+          "id": "B",
+          "text": "Never felt the animals had such painful disillusionment."
+        },
+        {
+          "id": "C",
+          "text": "Never the animals had felt such painful disillusionment."
+        },
+        {
+          "id": "D",
+          "text": "Never have the animals felt yesterday such painful disillusionment."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Never had the animals felt such painful disillusionment.",
+      "explanation": "After negative adverbials like \"Never\", invert the auxiliary and subject: had the animals.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "negative inversion"
+      ],
+      "points": 10
+    },
+    {
+      "id": "WR-038",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "analytical tone",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: Which sentence best avoids weak phrases such as \"we can see\"?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "We can see that the character is sad."
+        },
+        {
+          "id": "B",
+          "text": "We have a metaphor and it is nice."
+        },
+        {
+          "id": "C",
+          "text": "You can see there is some imagery maybe."
+        },
+        {
+          "id": "D",
+          "text": "The imagery of darkness conveys the character's emotional isolation."
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "The imagery of darkness conveys the character's emotional isolation.",
+      "explanation": "Strong analysis makes a precise claim and explains the effect of the technique.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "analytical tone"
+      ],
+      "points": 10
+    },
+    {
+      "id": "WR-039",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "micro-quoting",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: Which response uses a micro-quote most effectively?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The whole paragraph proves everything about Jaja."
+        },
+        {
+          "id": "B",
+          "text": "The phrase \"piercing light\" symbolises Jaja's awakening independence."
+        },
+        {
+          "id": "C",
+          "text": "Jaja changes because I remember that he changes."
+        },
+        {
+          "id": "D",
+          "text": "There is a quote somewhere about eyes."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "The phrase \"piercing light\" symbolises Jaja's awakening independence.",
+      "explanation": "A micro-quote is short, integrated, and immediately analysed.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "micro-quoting"
+      ],
+      "points": 10
+    },
+    {
+      "id": "WR-040",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "STEAL method",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: In STEAL analysis, what does the \"E\" stand for?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Emotion"
+        },
+        {
+          "id": "B",
+          "text": "Effect on others"
+        },
+        {
+          "id": "C",
+          "text": "Evidence only"
+        },
+        {
+          "id": "D",
+          "text": "Ending"
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "Effect on others",
+      "explanation": "STEAL stands for Speech, Thoughts, Effect on others, Actions, Looks.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "STEAL method"
+      ],
+      "points": 10
+    },
+    {
+      "id": "WR-041",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "exam strategy",
+      "difficulty": "medium",
+      "prompt": "Practice set 1: Which exam strategy best matches the booklet?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Write every essay fully in pencil before using pen."
+        },
+        {
+          "id": "B",
+          "text": "Spend the final minutes starting a new question without reviewing."
+        },
+        {
+          "id": "C",
+          "text": "Ignore key words in the prompt."
+        },
+        {
+          "id": "D",
+          "text": "Read first, start with easier questions, plan open responses, and review at the end."
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "Read first, start with easier questions, plan open responses, and review at the end.",
+      "explanation": "The booklet stresses planning, prompt focus, and review time.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "exam strategy"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-042",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Kambili's physical paralysis",
+      "difficulty": "medium",
+      "prompt": "Practice set 2: What does Adichie suggest through Kambili's repeated inability to speak? Consider the booklet focus on recurring imagery and the detail \"lips held stubbornly together / could not move my tongue\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kambili is uninterested in the people around her."
+        },
+        {
+          "id": "B",
+          "text": "Her silence is a physical sign of internal conflict and fear created by Papa's control."
+        },
+        {
+          "id": "C",
+          "text": "The scene mainly proves that Kambili dislikes food."
+        },
+        {
+          "id": "D",
+          "text": "Kambili refuses to speak because she wants to punish Amaka."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "Her silence is a physical sign of internal conflict and fear created by Papa's control.",
+      "explanation": "The strongest reading connects the bodily imagery to repression, fear, and self-expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Kambili's physical paralysis"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-043",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Kambili's physical paralysis",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: In 25-50 words, analyse how recurring imagery deepens the meaning of Kambili's physical paralysis. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "recurring",
+        "kambili's"
+      ],
+      "sampleAnswer": "Her silence is a physical sign of internal conflict and fear created by Papa's control. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The strongest reading connects the bodily imagery to repression, fear, and self-expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Kambili's physical paralysis"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-044",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Jaja in Nsukka",
+      "difficulty": "medium",
+      "prompt": "Practice set 2: What does the \"piercing light\" in Jaja's eyes most strongly symbolise? Consider the booklet focus on symbolism and the detail \"piercing light in his eyes\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A loss of interest in politics and history."
+        },
+        {
+          "id": "B",
+          "text": "A new independence that begins to challenge Papa's authority."
+        },
+        {
+          "id": "C",
+          "text": "A sudden illness caused by the heat."
+        },
+        {
+          "id": "D",
+          "text": "A return to complete obedience at home."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "A new independence that begins to challenge Papa's authority.",
+      "explanation": "Jaja becomes more dynamic in Nsukka; the light signals awakening and resistance.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Jaja in Nsukka"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-045",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Jaja in Nsukka",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: In 25-50 words, analyse how symbolism deepens the meaning of Jaja in Nsukka. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "symbolism",
+        "jaja"
+      ],
+      "sampleAnswer": "A new independence that begins to challenge Papa's authority. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "Jaja becomes more dynamic in Nsukka; the light signals awakening and resistance.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Jaja in Nsukka"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-046",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Enugu versus Nsukka",
+      "difficulty": "medium",
+      "prompt": "Practice set 2: Why is the contrast between Enugu and Nsukka important? Consider the booklet focus on juxtaposition and the detail \"home / Aunty Ifeoma's garden\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change."
+        },
+        {
+          "id": "B",
+          "text": "It removes the importance of family relationships."
+        },
+        {
+          "id": "C",
+          "text": "It proves that all conflict in the novel is caused by weather."
+        },
+        {
+          "id": "D",
+          "text": "It shows that Kambili and Jaja have no internal conflict."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change.",
+      "explanation": "The homes work as contrasting social worlds: control in Enugu, possibility in Nsukka.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Enugu versus Nsukka"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-047",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Enugu versus Nsukka",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: In 25-50 words, analyse how juxtaposition deepens the meaning of Enugu versus Nsukka. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "juxtaposition",
+        "enugu"
+      ],
+      "sampleAnswer": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The homes work as contrasting social worlds: control in Enugu, possibility in Nsukka.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Enugu versus Nsukka"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-048",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Amaka and Kambili",
+      "difficulty": "medium",
+      "prompt": "Practice set 2: How does Amaka function as a foil to Kambili? Consider the booklet focus on character foil and the detail \"atulu\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Amaka's blunt speech highlights Kambili's silence and lack of agency."
+        },
+        {
+          "id": "B",
+          "text": "Amaka and Kambili are identical in confidence and speech."
+        },
+        {
+          "id": "C",
+          "text": "Amaka exists only to explain the plot chronologically."
+        },
+        {
+          "id": "D",
+          "text": "Amaka proves Kambili is naturally cruel."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Amaka's blunt speech highlights Kambili's silence and lack of agency.",
+      "explanation": "A foil exposes a character by contrast. Amaka makes Kambili's repression visible.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Amaka and Kambili"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-049",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Amaka and Kambili",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: In 25-50 words, analyse how character foil deepens the meaning of Amaka and Kambili. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "character",
+        "amaka"
+      ],
+      "sampleAnswer": "Amaka's blunt speech highlights Kambili's silence and lack of agency. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "A foil exposes a character by contrast. Amaka makes Kambili's repression visible.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Amaka and Kambili"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-050",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Father Amadi",
+      "difficulty": "medium",
+      "prompt": "Practice set 2: Why can Father Amadi be read as a catalyst for Kambili? Consider the booklet focus on catalyst and the detail \"I haven't seen you laugh or smile today\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "He notices her joy and humanity, challenging her single story of herself as silent."
+        },
+        {
+          "id": "B",
+          "text": "He makes her reject all forms of faith."
+        },
+        {
+          "id": "C",
+          "text": "He prevents her from developing any self-awareness."
+        },
+        {
+          "id": "D",
+          "text": "He pressures her to imitate Papa's strictness."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "He notices her joy and humanity, challenging her single story of herself as silent.",
+      "explanation": "A catalyst triggers change. Father Amadi draws attention to Kambili's buried desire for expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Father Amadi"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-051",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Father Amadi",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: In 25-50 words, analyse how catalyst deepens the meaning of Father Amadi. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "catalyst",
+        "father"
+      ],
+      "sampleAnswer": "He notices her joy and humanity, challenging her single story of herself as silent. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "A catalyst triggers change. Father Amadi draws attention to Kambili's buried desire for expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Father Amadi"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-052",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Ube scene",
+      "difficulty": "medium",
+      "prompt": "Practice set 2: What does the ube most plausibly symbolise in the Father Amadi scene? Consider the booklet focus on sensory symbolism and the detail \"could not lick the ube flesh from the seed\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A symbol that Papa has become more permissive."
+        },
+        {
+          "id": "B",
+          "text": "A simple dislike of Nigerian food."
+        },
+        {
+          "id": "C",
+          "text": "Kambili's difficulty engaging with desire while feeling watched and judged."
+        },
+        {
+          "id": "D",
+          "text": "A comic break with no link to characterisation."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Kambili's difficulty engaging with desire while feeling watched and judged.",
+      "explanation": "The sensory image turns attraction, shame, and self-consciousness into a concrete action.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Ube scene"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-053",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Ube scene",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: In 25-50 words, analyse how sensory symbolism deepens the meaning of Ube scene. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "sensory",
+        "ube"
+      ],
+      "sampleAnswer": "Kambili's difficulty engaging with desire while feeling watched and judged. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The sensory image turns attraction, shame, and self-consciousness into a concrete action.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Ube scene"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-054",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Squealer as propagandist",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: What is Squealer's central role in Animal Farm? Focus on allegory.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes."
+        },
+        {
+          "id": "B",
+          "text": "He leads the rebellion through physical courage."
+        },
+        {
+          "id": "C",
+          "text": "He is the only animal who consistently opposes Napoleon."
+        },
+        {
+          "id": "D",
+          "text": "He represents the working class that is exploited by the pigs."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes.",
+      "explanation": "Squealer is the regime's voice: he distorts truth, reframes abuse, and manufactures consent.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Squealer as propagandist"
+      ],
+      "points": 14
+    },
+    {
+      "id": "AF-SA-055",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Squealer as propagandist",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: Write a 30-60 word answer explaining how Squealer as propagandist connects to allegory in Animal Farm.",
+      "requiredKeywords": [
+        "squealer",
+        "allegory"
+      ],
+      "sampleAnswer": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Squealer is the regime's voice: he distorts truth, reframes abuse, and manufactures consent.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Squealer as propagandist"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-056",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Boxer van scene",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: Why is Boxer's removal in the van a moment of tragic irony? Focus on tragic irony.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Boxer knowingly betrays the other animals."
+        },
+        {
+          "id": "B",
+          "text": "The animals immediately overthrow Napoleon after reading the van."
+        },
+        {
+          "id": "C",
+          "text": "The loyal worker trusts the system that secretly sells him to his death."
+        },
+        {
+          "id": "D",
+          "text": "The van proves retirement was honestly provided."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "The loyal worker trusts the system that secretly sells him to his death.",
+      "explanation": "The audience understands the betrayal while Boxer remains tragically vulnerable.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Boxer van scene"
+      ],
+      "points": 14
+    },
+    {
+      "id": "AF-SA-057",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Boxer van scene",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: Write a 30-60 word answer explaining how Boxer van scene connects to tragic irony in Animal Farm.",
+      "requiredKeywords": [
+        "boxer",
+        "tragic"
+      ],
+      "sampleAnswer": "The loyal worker trusts the system that secretly sells him to his death. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "The audience understands the betrayal while Boxer remains tragically vulnerable.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Boxer van scene"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-058",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Benjamin",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: What does Benjamin's reaction to Boxer's van reveal? Focus on disillusionment.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer."
+        },
+        {
+          "id": "B",
+          "text": "He has always been fully optimistic about Animalism."
+        },
+        {
+          "id": "C",
+          "text": "He is unable to read the words on the van."
+        },
+        {
+          "id": "D",
+          "text": "He is responsible for planning Napoleon's propaganda."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer.",
+      "explanation": "Benjamin knows enough to see the truth, but his usual detachment cannot undo the betrayal.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Benjamin"
+      ],
+      "points": 14
+    },
+    {
+      "id": "AF-SA-059",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Benjamin",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: Write a 30-60 word answer explaining how Benjamin connects to disillusionment in Animal Farm.",
+      "requiredKeywords": [
+        "benjamin",
+        "disillusionment"
+      ],
+      "sampleAnswer": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Benjamin knows enough to see the truth, but his usual detachment cannot undo the betrayal.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Benjamin"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-060",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Clover",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: What does Clover's desperate chase after the van emphasise? Focus on visual imagery.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals."
+        },
+        {
+          "id": "B",
+          "text": "Her indifference toward Boxer's fate."
+        },
+        {
+          "id": "C",
+          "text": "Her complete understanding of propaganda from the start."
+        },
+        {
+          "id": "D",
+          "text": "Her desire to become one of the pigs."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals.",
+      "explanation": "Clover's physical struggle makes the emotional collapse of Animalism visible.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Clover"
+      ],
+      "points": 14
+    },
+    {
+      "id": "AF-SA-061",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Clover",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: Write a 30-60 word answer explaining how Clover connects to visual imagery in Animal Farm.",
+      "requiredKeywords": [
+        "clover",
+        "visual"
+      ],
+      "sampleAnswer": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Clover's physical struggle makes the emotional collapse of Animalism visible.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Clover"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-062",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Historical allegory",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: In the booklet's focus, Animal Farm should be read as what kind of work? Focus on allegory.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A realistic farming manual with no symbolic layer."
+        },
+        {
+          "id": "B",
+          "text": "A grammar workbook about passive voice."
+        },
+        {
+          "id": "C",
+          "text": "An allegory in which characters and events represent political figures, systems, and betrayals."
+        },
+        {
+          "id": "D",
+          "text": "A romance whose main purpose is courtship."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "An allegory in which characters and events represent political figures, systems, and betrayals.",
+      "explanation": "The exam asks students to connect story details to broader historical and political meanings.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Historical allegory"
+      ],
+      "points": 14
+    },
+    {
+      "id": "AF-SA-063",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Historical allegory",
+      "difficulty": "hard",
+      "prompt": "Practice set 2: Write a 30-60 word answer explaining how Historical allegory connects to allegory in Animal Farm.",
+      "requiredKeywords": [
+        "historical",
+        "allegory"
+      ],
+      "sampleAnswer": "An allegory in which characters and events represent political figures, systems, and betrayals. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "The exam asks students to connect story details to broader historical and political meanings.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Historical allegory"
+      ],
+      "points": 16
+    },
+    {
+      "id": "RT-064",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "ethos",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Which definition best matches ethos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "C",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "D",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "appeal to credibility, trust, authority, or moral character",
+      "explanation": "ethos means appeal to credibility, trust, authority, or moral character. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "ethos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-065",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "logos",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Which definition best matches logos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "C",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "D",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "appeal to logic, evidence, cause and effect, or reason",
+      "explanation": "logos means appeal to logic, evidence, cause and effect, or reason. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "logos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-066",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "pathos",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Which definition best matches pathos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "C",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "D",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "appeal to emotion such as fear, pity, pride, or hope",
+      "explanation": "pathos means appeal to emotion such as fear, pity, pride, or hope. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "pathos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-067",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "bandwagon",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Which definition best matches bandwagon?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "D",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "pressure to agree because everyone supposedly does",
+      "explanation": "bandwagon means pressure to agree because everyone supposedly does. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "bandwagon"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-068",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "loaded words",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Which definition best matches loaded words?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "emotionally charged language used to influence judgement"
+        },
+        {
+          "id": "D",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "emotionally charged language used to influence judgement",
+      "explanation": "loaded words means emotionally charged language used to influence judgement. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "loaded words"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-069",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "repetition",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Which definition best matches repetition?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "D",
+          "text": "reusing words or structures to make an idea memorable"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "reusing words or structures to make an idea memorable",
+      "explanation": "repetition means reusing words or structures to make an idea memorable. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "repetition"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-070",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "call to action",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Which definition best matches call to action?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "D",
+          "text": "a direct push for the audience to do something"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "a direct push for the audience to do something",
+      "explanation": "call to action means a direct push for the audience to do something. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "call to action"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-071",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "relative clauses",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Choose the sentence with a correct non-defining relative clause.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Aunty Ifeoma, which encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "B",
+          "text": "Aunty Ifeoma, whose encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "C",
+          "text": "Aunty Ifeoma, who encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "D",
+          "text": "Aunty Ifeoma who encourages open debate acts as a foil to Papa."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Aunty Ifeoma, who encourages open debate, acts as a foil to Papa.",
+      "explanation": "Non-defining clauses add extra information and need commas; use \"who\" for people.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "relative clauses"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-072",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "passive voice",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Which sentence uses the passive voice accurately?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Boxer takes away the van by the animals."
+        },
+        {
+          "id": "B",
+          "text": "The animals taking Boxer away is passive voice."
+        },
+        {
+          "id": "C",
+          "text": "Boxer has take away in a van."
+        },
+        {
+          "id": "D",
+          "text": "Boxer is taken away in a van marked by words the animals slowly understand."
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "Boxer is taken away in a van marked by words the animals slowly understand.",
+      "explanation": "Passive voice uses a form of \"be\" plus the past participle: is taken, was written, were betrayed.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "passive voice"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-073",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "adjective/adverb",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Choose the sentence with the correct adjective/adverb form.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Squealer speaks persuasively, but his argument is dishonestly."
+        },
+        {
+          "id": "B",
+          "text": "Squealer speaks persuasively, but his argument is dishonest."
+        },
+        {
+          "id": "C",
+          "text": "Squealer speaks persuasive, but his argument is dishonestly."
+        },
+        {
+          "id": "D",
+          "text": "Squealer speaks persuasive, but his argument is dishonest."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "Squealer speaks persuasively, but his argument is dishonest.",
+      "explanation": "Adverbs usually modify verbs; adjectives modify nouns.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "adjective/adverb"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-074",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "order of adjectives",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Which phrase uses the most natural order of adjectives?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "an old wooden small box"
+        },
+        {
+          "id": "B",
+          "text": "a small wooden old box"
+        },
+        {
+          "id": "C",
+          "text": "a small old wooden box"
+        },
+        {
+          "id": "D",
+          "text": "a wooden small old box"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "a small old wooden box",
+      "explanation": "English adjective order usually moves from size/age/material before the noun.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "order of adjectives"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-075",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "tense contrast",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Choose the sentence that correctly combines past simple and past continuous.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Clover has running after the van when Boxer appears at the window."
+        },
+        {
+          "id": "B",
+          "text": "Clover was run after the van when Boxer appearing at the window."
+        },
+        {
+          "id": "C",
+          "text": "Clover was running after the van when Boxer appeared at the window."
+        },
+        {
+          "id": "D",
+          "text": "Clover ran after the van when Boxer was appear at the window."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Clover was running after the van when Boxer appeared at the window.",
+      "explanation": "Past continuous describes the ongoing action; past simple marks the interrupting event.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "tense contrast"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-076",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "present perfect",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Which sentence uses the present perfect correctly?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kambili has learned that silence can be challenged."
+        },
+        {
+          "id": "B",
+          "text": "Kambili has learn that silence can be challenged."
+        },
+        {
+          "id": "C",
+          "text": "Kambili learned since that silence can be challenged."
+        },
+        {
+          "id": "D",
+          "text": "Kambili have learned that silence can be challenged."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Kambili has learned that silence can be challenged.",
+      "explanation": "Present perfect uses has/have plus past participle and can connect past learning to the present.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "present perfect"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-077",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "cleft sentence",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Which sentence uses a cleft structure correctly?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It is Squealer who turns Napoleon's decisions into persuasive propaganda."
+        },
+        {
+          "id": "B",
+          "text": "It is Squealer which turn Napoleon's decisions."
+        },
+        {
+          "id": "C",
+          "text": "What is Squealer who turns Napoleon's decisions."
+        },
+        {
+          "id": "D",
+          "text": "It Squealer who turns Napoleon's decisions into persuasive propaganda."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "It is Squealer who turns Napoleon's decisions into persuasive propaganda.",
+      "explanation": "Cleft sentences emphasise information using structures like \"It is X who...\" or \"What...\"",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "cleft sentence"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-078",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "negative inversion",
+      "difficulty": "easy",
+      "prompt": "Practice set 2: Choose the correct negative inversion.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Never had the animals felt such painful disillusionment."
+        },
+        {
+          "id": "B",
+          "text": "Never felt the animals had such painful disillusionment."
+        },
+        {
+          "id": "C",
+          "text": "Never the animals had felt such painful disillusionment."
+        },
+        {
+          "id": "D",
+          "text": "Never have the animals felt yesterday such painful disillusionment."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Never had the animals felt such painful disillusionment.",
+      "explanation": "After negative adverbials like \"Never\", invert the auxiliary and subject: had the animals.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "negative inversion"
+      ],
+      "points": 8
+    },
+    {
+      "id": "WR-079",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "analytical tone",
+      "difficulty": "medium",
+      "prompt": "Practice set 2: Which sentence best avoids weak phrases such as \"we can see\"?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "We can see that the character is sad."
+        },
+        {
+          "id": "B",
+          "text": "We have a metaphor and it is nice."
+        },
+        {
+          "id": "C",
+          "text": "You can see there is some imagery maybe."
+        },
+        {
+          "id": "D",
+          "text": "The imagery of darkness conveys the character's emotional isolation."
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "The imagery of darkness conveys the character's emotional isolation.",
+      "explanation": "Strong analysis makes a precise claim and explains the effect of the technique.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "analytical tone"
+      ],
+      "points": 10
+    },
+    {
+      "id": "WR-080",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "micro-quoting",
+      "difficulty": "medium",
+      "prompt": "Practice set 2: Which response uses a micro-quote most effectively?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The whole paragraph proves everything about Jaja."
+        },
+        {
+          "id": "B",
+          "text": "The phrase \"piercing light\" symbolises Jaja's awakening independence."
+        },
+        {
+          "id": "C",
+          "text": "Jaja changes because I remember that he changes."
+        },
+        {
+          "id": "D",
+          "text": "There is a quote somewhere about eyes."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "The phrase \"piercing light\" symbolises Jaja's awakening independence.",
+      "explanation": "A micro-quote is short, integrated, and immediately analysed.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "micro-quoting"
+      ],
+      "points": 10
+    },
+    {
+      "id": "WR-081",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "STEAL method",
+      "difficulty": "medium",
+      "prompt": "Practice set 2: In STEAL analysis, what does the \"E\" stand for?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Emotion"
+        },
+        {
+          "id": "B",
+          "text": "Effect on others"
+        },
+        {
+          "id": "C",
+          "text": "Evidence only"
+        },
+        {
+          "id": "D",
+          "text": "Ending"
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "Effect on others",
+      "explanation": "STEAL stands for Speech, Thoughts, Effect on others, Actions, Looks.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "STEAL method"
+      ],
+      "points": 10
+    },
+    {
+      "id": "WR-082",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "exam strategy",
+      "difficulty": "medium",
+      "prompt": "Practice set 2: Which exam strategy best matches the booklet?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Write every essay fully in pencil before using pen."
+        },
+        {
+          "id": "B",
+          "text": "Spend the final minutes starting a new question without reviewing."
+        },
+        {
+          "id": "C",
+          "text": "Ignore key words in the prompt."
+        },
+        {
+          "id": "D",
+          "text": "Read first, start with easier questions, plan open responses, and review at the end."
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "Read first, start with easier questions, plan open responses, and review at the end.",
+      "explanation": "The booklet stresses planning, prompt focus, and review time.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "exam strategy"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-083",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Kambili's physical paralysis",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: What does Adichie suggest through Kambili's repeated inability to speak? Consider the booklet focus on recurring imagery and the detail \"lips held stubbornly together / could not move my tongue\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kambili is uninterested in the people around her."
+        },
+        {
+          "id": "B",
+          "text": "Her silence is a physical sign of internal conflict and fear created by Papa's control."
+        },
+        {
+          "id": "C",
+          "text": "The scene mainly proves that Kambili dislikes food."
+        },
+        {
+          "id": "D",
+          "text": "Kambili refuses to speak because she wants to punish Amaka."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "Her silence is a physical sign of internal conflict and fear created by Papa's control.",
+      "explanation": "The strongest reading connects the bodily imagery to repression, fear, and self-expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Kambili's physical paralysis"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-084",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Kambili's physical paralysis",
+      "difficulty": "hard",
+      "prompt": "Practice set 3: In 25-50 words, analyse how recurring imagery deepens the meaning of Kambili's physical paralysis. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "recurring",
+        "kambili's"
+      ],
+      "sampleAnswer": "Her silence is a physical sign of internal conflict and fear created by Papa's control. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The strongest reading connects the bodily imagery to repression, fear, and self-expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Kambili's physical paralysis"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-085",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Jaja in Nsukka",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: What does the \"piercing light\" in Jaja's eyes most strongly symbolise? Consider the booklet focus on symbolism and the detail \"piercing light in his eyes\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A loss of interest in politics and history."
+        },
+        {
+          "id": "B",
+          "text": "A new independence that begins to challenge Papa's authority."
+        },
+        {
+          "id": "C",
+          "text": "A sudden illness caused by the heat."
+        },
+        {
+          "id": "D",
+          "text": "A return to complete obedience at home."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "A new independence that begins to challenge Papa's authority.",
+      "explanation": "Jaja becomes more dynamic in Nsukka; the light signals awakening and resistance.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Jaja in Nsukka"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-086",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Jaja in Nsukka",
+      "difficulty": "hard",
+      "prompt": "Practice set 3: In 25-50 words, analyse how symbolism deepens the meaning of Jaja in Nsukka. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "symbolism",
+        "jaja"
+      ],
+      "sampleAnswer": "A new independence that begins to challenge Papa's authority. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "Jaja becomes more dynamic in Nsukka; the light signals awakening and resistance.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Jaja in Nsukka"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-087",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Enugu versus Nsukka",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: Why is the contrast between Enugu and Nsukka important? Consider the booklet focus on juxtaposition and the detail \"home / Aunty Ifeoma's garden\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change."
+        },
+        {
+          "id": "B",
+          "text": "It removes the importance of family relationships."
+        },
+        {
+          "id": "C",
+          "text": "It proves that all conflict in the novel is caused by weather."
+        },
+        {
+          "id": "D",
+          "text": "It shows that Kambili and Jaja have no internal conflict."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change.",
+      "explanation": "The homes work as contrasting social worlds: control in Enugu, possibility in Nsukka.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Enugu versus Nsukka"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-088",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Enugu versus Nsukka",
+      "difficulty": "hard",
+      "prompt": "Practice set 3: In 25-50 words, analyse how juxtaposition deepens the meaning of Enugu versus Nsukka. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "juxtaposition",
+        "enugu"
+      ],
+      "sampleAnswer": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The homes work as contrasting social worlds: control in Enugu, possibility in Nsukka.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Enugu versus Nsukka"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-089",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Amaka and Kambili",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: How does Amaka function as a foil to Kambili? Consider the booklet focus on character foil and the detail \"atulu\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Amaka's blunt speech highlights Kambili's silence and lack of agency."
+        },
+        {
+          "id": "B",
+          "text": "Amaka and Kambili are identical in confidence and speech."
+        },
+        {
+          "id": "C",
+          "text": "Amaka exists only to explain the plot chronologically."
+        },
+        {
+          "id": "D",
+          "text": "Amaka proves Kambili is naturally cruel."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Amaka's blunt speech highlights Kambili's silence and lack of agency.",
+      "explanation": "A foil exposes a character by contrast. Amaka makes Kambili's repression visible.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Amaka and Kambili"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-090",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Amaka and Kambili",
+      "difficulty": "hard",
+      "prompt": "Practice set 3: In 25-50 words, analyse how character foil deepens the meaning of Amaka and Kambili. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "character",
+        "amaka"
+      ],
+      "sampleAnswer": "Amaka's blunt speech highlights Kambili's silence and lack of agency. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "A foil exposes a character by contrast. Amaka makes Kambili's repression visible.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Amaka and Kambili"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-091",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Father Amadi",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: Why can Father Amadi be read as a catalyst for Kambili? Consider the booklet focus on catalyst and the detail \"I haven't seen you laugh or smile today\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "He notices her joy and humanity, challenging her single story of herself as silent."
+        },
+        {
+          "id": "B",
+          "text": "He makes her reject all forms of faith."
+        },
+        {
+          "id": "C",
+          "text": "He prevents her from developing any self-awareness."
+        },
+        {
+          "id": "D",
+          "text": "He pressures her to imitate Papa's strictness."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "He notices her joy and humanity, challenging her single story of herself as silent.",
+      "explanation": "A catalyst triggers change. Father Amadi draws attention to Kambili's buried desire for expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Father Amadi"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-092",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Father Amadi",
+      "difficulty": "hard",
+      "prompt": "Practice set 3: In 25-50 words, analyse how catalyst deepens the meaning of Father Amadi. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "catalyst",
+        "father"
+      ],
+      "sampleAnswer": "He notices her joy and humanity, challenging her single story of herself as silent. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "A catalyst triggers change. Father Amadi draws attention to Kambili's buried desire for expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Father Amadi"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-093",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Ube scene",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: What does the ube most plausibly symbolise in the Father Amadi scene? Consider the booklet focus on sensory symbolism and the detail \"could not lick the ube flesh from the seed\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A symbol that Papa has become more permissive."
+        },
+        {
+          "id": "B",
+          "text": "A simple dislike of Nigerian food."
+        },
+        {
+          "id": "C",
+          "text": "Kambili's difficulty engaging with desire while feeling watched and judged."
+        },
+        {
+          "id": "D",
+          "text": "A comic break with no link to characterisation."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Kambili's difficulty engaging with desire while feeling watched and judged.",
+      "explanation": "The sensory image turns attraction, shame, and self-consciousness into a concrete action.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Ube scene"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-094",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Ube scene",
+      "difficulty": "hard",
+      "prompt": "Practice set 3: In 25-50 words, analyse how sensory symbolism deepens the meaning of Ube scene. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "sensory",
+        "ube"
+      ],
+      "sampleAnswer": "Kambili's difficulty engaging with desire while feeling watched and judged. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The sensory image turns attraction, shame, and self-consciousness into a concrete action.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Ube scene"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-095",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Squealer as propagandist",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: What is Squealer's central role in Animal Farm? Focus on allegory.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes."
+        },
+        {
+          "id": "B",
+          "text": "He leads the rebellion through physical courage."
+        },
+        {
+          "id": "C",
+          "text": "He is the only animal who consistently opposes Napoleon."
+        },
+        {
+          "id": "D",
+          "text": "He represents the working class that is exploited by the pigs."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes.",
+      "explanation": "Squealer is the regime's voice: he distorts truth, reframes abuse, and manufactures consent.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Squealer as propagandist"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-096",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Squealer as propagandist",
+      "difficulty": "hard",
+      "prompt": "Practice set 3: Write a 30-60 word answer explaining how Squealer as propagandist connects to allegory in Animal Farm.",
+      "requiredKeywords": [
+        "squealer",
+        "allegory"
+      ],
+      "sampleAnswer": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Squealer is the regime's voice: he distorts truth, reframes abuse, and manufactures consent.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Squealer as propagandist"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-097",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Boxer van scene",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: Why is Boxer's removal in the van a moment of tragic irony? Focus on tragic irony.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Boxer knowingly betrays the other animals."
+        },
+        {
+          "id": "B",
+          "text": "The animals immediately overthrow Napoleon after reading the van."
+        },
+        {
+          "id": "C",
+          "text": "The loyal worker trusts the system that secretly sells him to his death."
+        },
+        {
+          "id": "D",
+          "text": "The van proves retirement was honestly provided."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "The loyal worker trusts the system that secretly sells him to his death.",
+      "explanation": "The audience understands the betrayal while Boxer remains tragically vulnerable.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Boxer van scene"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-098",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Boxer van scene",
+      "difficulty": "hard",
+      "prompt": "Practice set 3: Write a 30-60 word answer explaining how Boxer van scene connects to tragic irony in Animal Farm.",
+      "requiredKeywords": [
+        "boxer",
+        "tragic"
+      ],
+      "sampleAnswer": "The loyal worker trusts the system that secretly sells him to his death. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "The audience understands the betrayal while Boxer remains tragically vulnerable.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Boxer van scene"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-099",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Benjamin",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: What does Benjamin's reaction to Boxer's van reveal? Focus on disillusionment.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer."
+        },
+        {
+          "id": "B",
+          "text": "He has always been fully optimistic about Animalism."
+        },
+        {
+          "id": "C",
+          "text": "He is unable to read the words on the van."
+        },
+        {
+          "id": "D",
+          "text": "He is responsible for planning Napoleon's propaganda."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer.",
+      "explanation": "Benjamin knows enough to see the truth, but his usual detachment cannot undo the betrayal.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Benjamin"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-100",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Benjamin",
+      "difficulty": "hard",
+      "prompt": "Practice set 3: Write a 30-60 word answer explaining how Benjamin connects to disillusionment in Animal Farm.",
+      "requiredKeywords": [
+        "benjamin",
+        "disillusionment"
+      ],
+      "sampleAnswer": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Benjamin knows enough to see the truth, but his usual detachment cannot undo the betrayal.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Benjamin"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-101",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Clover",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: What does Clover's desperate chase after the van emphasise? Focus on visual imagery.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals."
+        },
+        {
+          "id": "B",
+          "text": "Her indifference toward Boxer's fate."
+        },
+        {
+          "id": "C",
+          "text": "Her complete understanding of propaganda from the start."
+        },
+        {
+          "id": "D",
+          "text": "Her desire to become one of the pigs."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals.",
+      "explanation": "Clover's physical struggle makes the emotional collapse of Animalism visible.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Clover"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-102",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Clover",
+      "difficulty": "hard",
+      "prompt": "Practice set 3: Write a 30-60 word answer explaining how Clover connects to visual imagery in Animal Farm.",
+      "requiredKeywords": [
+        "clover",
+        "visual"
+      ],
+      "sampleAnswer": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Clover's physical struggle makes the emotional collapse of Animalism visible.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Clover"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-103",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Historical allegory",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: In the booklet's focus, Animal Farm should be read as what kind of work? Focus on allegory.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A realistic farming manual with no symbolic layer."
+        },
+        {
+          "id": "B",
+          "text": "A grammar workbook about passive voice."
+        },
+        {
+          "id": "C",
+          "text": "An allegory in which characters and events represent political figures, systems, and betrayals."
+        },
+        {
+          "id": "D",
+          "text": "A romance whose main purpose is courtship."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "An allegory in which characters and events represent political figures, systems, and betrayals.",
+      "explanation": "The exam asks students to connect story details to broader historical and political meanings.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Historical allegory"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-104",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Historical allegory",
+      "difficulty": "hard",
+      "prompt": "Practice set 3: Write a 30-60 word answer explaining how Historical allegory connects to allegory in Animal Farm.",
+      "requiredKeywords": [
+        "historical",
+        "allegory"
+      ],
+      "sampleAnswer": "An allegory in which characters and events represent political figures, systems, and betrayals. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "The exam asks students to connect story details to broader historical and political meanings.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Historical allegory"
+      ],
+      "points": 16
+    },
+    {
+      "id": "RT-105",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "ethos",
+      "difficulty": "easy",
+      "prompt": "Practice set 3: Which definition best matches ethos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "C",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "D",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "appeal to credibility, trust, authority, or moral character",
+      "explanation": "ethos means appeal to credibility, trust, authority, or moral character. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "ethos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-106",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "logos",
+      "difficulty": "easy",
+      "prompt": "Practice set 3: Which definition best matches logos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "C",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "D",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "appeal to logic, evidence, cause and effect, or reason",
+      "explanation": "logos means appeal to logic, evidence, cause and effect, or reason. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "logos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-107",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "pathos",
+      "difficulty": "easy",
+      "prompt": "Practice set 3: Which definition best matches pathos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "C",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "D",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "appeal to emotion such as fear, pity, pride, or hope",
+      "explanation": "pathos means appeal to emotion such as fear, pity, pride, or hope. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "pathos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-108",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "bandwagon",
+      "difficulty": "easy",
+      "prompt": "Practice set 3: Which definition best matches bandwagon?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "D",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "pressure to agree because everyone supposedly does",
+      "explanation": "bandwagon means pressure to agree because everyone supposedly does. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "bandwagon"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-109",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "loaded words",
+      "difficulty": "easy",
+      "prompt": "Practice set 3: Which definition best matches loaded words?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "emotionally charged language used to influence judgement"
+        },
+        {
+          "id": "D",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "emotionally charged language used to influence judgement",
+      "explanation": "loaded words means emotionally charged language used to influence judgement. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "loaded words"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-110",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "repetition",
+      "difficulty": "easy",
+      "prompt": "Practice set 3: Which definition best matches repetition?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "D",
+          "text": "reusing words or structures to make an idea memorable"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "reusing words or structures to make an idea memorable",
+      "explanation": "repetition means reusing words or structures to make an idea memorable. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "repetition"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-111",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "call to action",
+      "difficulty": "easy",
+      "prompt": "Practice set 3: Which definition best matches call to action?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "D",
+          "text": "a direct push for the audience to do something"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "a direct push for the audience to do something",
+      "explanation": "call to action means a direct push for the audience to do something. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "call to action"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-112",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "relative clauses",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: Choose the sentence with a correct non-defining relative clause.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Aunty Ifeoma, which encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "B",
+          "text": "Aunty Ifeoma, whose encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "C",
+          "text": "Aunty Ifeoma, who encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "D",
+          "text": "Aunty Ifeoma who encourages open debate acts as a foil to Papa."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Aunty Ifeoma, who encourages open debate, acts as a foil to Papa.",
+      "explanation": "Non-defining clauses add extra information and need commas; use \"who\" for people.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "relative clauses"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-113",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "passive voice",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: Which sentence uses the passive voice accurately?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Boxer takes away the van by the animals."
+        },
+        {
+          "id": "B",
+          "text": "The animals taking Boxer away is passive voice."
+        },
+        {
+          "id": "C",
+          "text": "Boxer has take away in a van."
+        },
+        {
+          "id": "D",
+          "text": "Boxer is taken away in a van marked by words the animals slowly understand."
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "Boxer is taken away in a van marked by words the animals slowly understand.",
+      "explanation": "Passive voice uses a form of \"be\" plus the past participle: is taken, was written, were betrayed.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "passive voice"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-114",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "adjective/adverb",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: Choose the sentence with the correct adjective/adverb form.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Squealer speaks persuasively, but his argument is dishonestly."
+        },
+        {
+          "id": "B",
+          "text": "Squealer speaks persuasively, but his argument is dishonest."
+        },
+        {
+          "id": "C",
+          "text": "Squealer speaks persuasive, but his argument is dishonestly."
+        },
+        {
+          "id": "D",
+          "text": "Squealer speaks persuasive, but his argument is dishonest."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "Squealer speaks persuasively, but his argument is dishonest.",
+      "explanation": "Adverbs usually modify verbs; adjectives modify nouns.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "adjective/adverb"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-115",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "order of adjectives",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: Which phrase uses the most natural order of adjectives?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "an old wooden small box"
+        },
+        {
+          "id": "B",
+          "text": "a small wooden old box"
+        },
+        {
+          "id": "C",
+          "text": "a small old wooden box"
+        },
+        {
+          "id": "D",
+          "text": "a wooden small old box"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "a small old wooden box",
+      "explanation": "English adjective order usually moves from size/age/material before the noun.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "order of adjectives"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-116",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "tense contrast",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: Choose the sentence that correctly combines past simple and past continuous.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Clover has running after the van when Boxer appears at the window."
+        },
+        {
+          "id": "B",
+          "text": "Clover was run after the van when Boxer appearing at the window."
+        },
+        {
+          "id": "C",
+          "text": "Clover was running after the van when Boxer appeared at the window."
+        },
+        {
+          "id": "D",
+          "text": "Clover ran after the van when Boxer was appear at the window."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Clover was running after the van when Boxer appeared at the window.",
+      "explanation": "Past continuous describes the ongoing action; past simple marks the interrupting event.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "tense contrast"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-117",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "present perfect",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: Which sentence uses the present perfect correctly?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kambili has learned that silence can be challenged."
+        },
+        {
+          "id": "B",
+          "text": "Kambili has learn that silence can be challenged."
+        },
+        {
+          "id": "C",
+          "text": "Kambili learned since that silence can be challenged."
+        },
+        {
+          "id": "D",
+          "text": "Kambili have learned that silence can be challenged."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Kambili has learned that silence can be challenged.",
+      "explanation": "Present perfect uses has/have plus past participle and can connect past learning to the present.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "present perfect"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-118",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "cleft sentence",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: Which sentence uses a cleft structure correctly?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It is Squealer who turns Napoleon's decisions into persuasive propaganda."
+        },
+        {
+          "id": "B",
+          "text": "It is Squealer which turn Napoleon's decisions."
+        },
+        {
+          "id": "C",
+          "text": "What is Squealer who turns Napoleon's decisions."
+        },
+        {
+          "id": "D",
+          "text": "It Squealer who turns Napoleon's decisions into persuasive propaganda."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "It is Squealer who turns Napoleon's decisions into persuasive propaganda.",
+      "explanation": "Cleft sentences emphasise information using structures like \"It is X who...\" or \"What...\"",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "cleft sentence"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-119",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "negative inversion",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: Choose the correct negative inversion.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Never had the animals felt such painful disillusionment."
+        },
+        {
+          "id": "B",
+          "text": "Never felt the animals had such painful disillusionment."
+        },
+        {
+          "id": "C",
+          "text": "Never the animals had felt such painful disillusionment."
+        },
+        {
+          "id": "D",
+          "text": "Never have the animals felt yesterday such painful disillusionment."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Never had the animals felt such painful disillusionment.",
+      "explanation": "After negative adverbials like \"Never\", invert the auxiliary and subject: had the animals.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "negative inversion"
+      ],
+      "points": 10
+    },
+    {
+      "id": "WR-120",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "analytical tone",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: Which sentence best avoids weak phrases such as \"we can see\"?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "We can see that the character is sad."
+        },
+        {
+          "id": "B",
+          "text": "We have a metaphor and it is nice."
+        },
+        {
+          "id": "C",
+          "text": "You can see there is some imagery maybe."
+        },
+        {
+          "id": "D",
+          "text": "The imagery of darkness conveys the character's emotional isolation."
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "The imagery of darkness conveys the character's emotional isolation.",
+      "explanation": "Strong analysis makes a precise claim and explains the effect of the technique.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "analytical tone"
+      ],
+      "points": 10
+    },
+    {
+      "id": "WR-121",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "micro-quoting",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: Which response uses a micro-quote most effectively?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The whole paragraph proves everything about Jaja."
+        },
+        {
+          "id": "B",
+          "text": "The phrase \"piercing light\" symbolises Jaja's awakening independence."
+        },
+        {
+          "id": "C",
+          "text": "Jaja changes because I remember that he changes."
+        },
+        {
+          "id": "D",
+          "text": "There is a quote somewhere about eyes."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "The phrase \"piercing light\" symbolises Jaja's awakening independence.",
+      "explanation": "A micro-quote is short, integrated, and immediately analysed.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "micro-quoting"
+      ],
+      "points": 10
+    },
+    {
+      "id": "WR-122",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "STEAL method",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: In STEAL analysis, what does the \"E\" stand for?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Emotion"
+        },
+        {
+          "id": "B",
+          "text": "Effect on others"
+        },
+        {
+          "id": "C",
+          "text": "Evidence only"
+        },
+        {
+          "id": "D",
+          "text": "Ending"
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "Effect on others",
+      "explanation": "STEAL stands for Speech, Thoughts, Effect on others, Actions, Looks.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "STEAL method"
+      ],
+      "points": 10
+    },
+    {
+      "id": "WR-123",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "exam strategy",
+      "difficulty": "medium",
+      "prompt": "Practice set 3: Which exam strategy best matches the booklet?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Write every essay fully in pencil before using pen."
+        },
+        {
+          "id": "B",
+          "text": "Spend the final minutes starting a new question without reviewing."
+        },
+        {
+          "id": "C",
+          "text": "Ignore key words in the prompt."
+        },
+        {
+          "id": "D",
+          "text": "Read first, start with easier questions, plan open responses, and review at the end."
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "Read first, start with easier questions, plan open responses, and review at the end.",
+      "explanation": "The booklet stresses planning, prompt focus, and review time.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "exam strategy"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-124",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Kambili's physical paralysis",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: What does Adichie suggest through Kambili's repeated inability to speak? Consider the booklet focus on recurring imagery and the detail \"lips held stubbornly together / could not move my tongue\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kambili is uninterested in the people around her."
+        },
+        {
+          "id": "B",
+          "text": "Her silence is a physical sign of internal conflict and fear created by Papa's control."
+        },
+        {
+          "id": "C",
+          "text": "The scene mainly proves that Kambili dislikes food."
+        },
+        {
+          "id": "D",
+          "text": "Kambili refuses to speak because she wants to punish Amaka."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "Her silence is a physical sign of internal conflict and fear created by Papa's control.",
+      "explanation": "The strongest reading connects the bodily imagery to repression, fear, and self-expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Kambili's physical paralysis"
+      ],
+      "points": 14
+    },
+    {
+      "id": "PH-SA-125",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Kambili's physical paralysis",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: In 25-50 words, analyse how recurring imagery deepens the meaning of Kambili's physical paralysis. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "recurring",
+        "kambili's"
+      ],
+      "sampleAnswer": "Her silence is a physical sign of internal conflict and fear created by Papa's control. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The strongest reading connects the bodily imagery to repression, fear, and self-expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Kambili's physical paralysis"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-126",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Jaja in Nsukka",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: What does the \"piercing light\" in Jaja's eyes most strongly symbolise? Consider the booklet focus on symbolism and the detail \"piercing light in his eyes\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A loss of interest in politics and history."
+        },
+        {
+          "id": "B",
+          "text": "A new independence that begins to challenge Papa's authority."
+        },
+        {
+          "id": "C",
+          "text": "A sudden illness caused by the heat."
+        },
+        {
+          "id": "D",
+          "text": "A return to complete obedience at home."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "A new independence that begins to challenge Papa's authority.",
+      "explanation": "Jaja becomes more dynamic in Nsukka; the light signals awakening and resistance.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Jaja in Nsukka"
+      ],
+      "points": 14
+    },
+    {
+      "id": "PH-SA-127",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Jaja in Nsukka",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: In 25-50 words, analyse how symbolism deepens the meaning of Jaja in Nsukka. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "symbolism",
+        "jaja"
+      ],
+      "sampleAnswer": "A new independence that begins to challenge Papa's authority. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "Jaja becomes more dynamic in Nsukka; the light signals awakening and resistance.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Jaja in Nsukka"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-128",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Enugu versus Nsukka",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: Why is the contrast between Enugu and Nsukka important? Consider the booklet focus on juxtaposition and the detail \"home / Aunty Ifeoma's garden\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change."
+        },
+        {
+          "id": "B",
+          "text": "It removes the importance of family relationships."
+        },
+        {
+          "id": "C",
+          "text": "It proves that all conflict in the novel is caused by weather."
+        },
+        {
+          "id": "D",
+          "text": "It shows that Kambili and Jaja have no internal conflict."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change.",
+      "explanation": "The homes work as contrasting social worlds: control in Enugu, possibility in Nsukka.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Enugu versus Nsukka"
+      ],
+      "points": 14
+    },
+    {
+      "id": "PH-SA-129",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Enugu versus Nsukka",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: In 25-50 words, analyse how juxtaposition deepens the meaning of Enugu versus Nsukka. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "juxtaposition",
+        "enugu"
+      ],
+      "sampleAnswer": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The homes work as contrasting social worlds: control in Enugu, possibility in Nsukka.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Enugu versus Nsukka"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-130",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Amaka and Kambili",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: How does Amaka function as a foil to Kambili? Consider the booklet focus on character foil and the detail \"atulu\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Amaka's blunt speech highlights Kambili's silence and lack of agency."
+        },
+        {
+          "id": "B",
+          "text": "Amaka and Kambili are identical in confidence and speech."
+        },
+        {
+          "id": "C",
+          "text": "Amaka exists only to explain the plot chronologically."
+        },
+        {
+          "id": "D",
+          "text": "Amaka proves Kambili is naturally cruel."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Amaka's blunt speech highlights Kambili's silence and lack of agency.",
+      "explanation": "A foil exposes a character by contrast. Amaka makes Kambili's repression visible.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Amaka and Kambili"
+      ],
+      "points": 14
+    },
+    {
+      "id": "PH-SA-131",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Amaka and Kambili",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: In 25-50 words, analyse how character foil deepens the meaning of Amaka and Kambili. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "character",
+        "amaka"
+      ],
+      "sampleAnswer": "Amaka's blunt speech highlights Kambili's silence and lack of agency. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "A foil exposes a character by contrast. Amaka makes Kambili's repression visible.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Amaka and Kambili"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-132",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Father Amadi",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: Why can Father Amadi be read as a catalyst for Kambili? Consider the booklet focus on catalyst and the detail \"I haven't seen you laugh or smile today\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "He notices her joy and humanity, challenging her single story of herself as silent."
+        },
+        {
+          "id": "B",
+          "text": "He makes her reject all forms of faith."
+        },
+        {
+          "id": "C",
+          "text": "He prevents her from developing any self-awareness."
+        },
+        {
+          "id": "D",
+          "text": "He pressures her to imitate Papa's strictness."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "He notices her joy and humanity, challenging her single story of herself as silent.",
+      "explanation": "A catalyst triggers change. Father Amadi draws attention to Kambili's buried desire for expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Father Amadi"
+      ],
+      "points": 14
+    },
+    {
+      "id": "PH-SA-133",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Father Amadi",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: In 25-50 words, analyse how catalyst deepens the meaning of Father Amadi. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "catalyst",
+        "father"
+      ],
+      "sampleAnswer": "He notices her joy and humanity, challenging her single story of herself as silent. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "A catalyst triggers change. Father Amadi draws attention to Kambili's buried desire for expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Father Amadi"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-134",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Ube scene",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: What does the ube most plausibly symbolise in the Father Amadi scene? Consider the booklet focus on sensory symbolism and the detail \"could not lick the ube flesh from the seed\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A symbol that Papa has become more permissive."
+        },
+        {
+          "id": "B",
+          "text": "A simple dislike of Nigerian food."
+        },
+        {
+          "id": "C",
+          "text": "Kambili's difficulty engaging with desire while feeling watched and judged."
+        },
+        {
+          "id": "D",
+          "text": "A comic break with no link to characterisation."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Kambili's difficulty engaging with desire while feeling watched and judged.",
+      "explanation": "The sensory image turns attraction, shame, and self-consciousness into a concrete action.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Ube scene"
+      ],
+      "points": 14
+    },
+    {
+      "id": "PH-SA-135",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Ube scene",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: In 25-50 words, analyse how sensory symbolism deepens the meaning of Ube scene. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "sensory",
+        "ube"
+      ],
+      "sampleAnswer": "Kambili's difficulty engaging with desire while feeling watched and judged. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The sensory image turns attraction, shame, and self-consciousness into a concrete action.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Ube scene"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-136",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Squealer as propagandist",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: What is Squealer's central role in Animal Farm? Focus on allegory.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes."
+        },
+        {
+          "id": "B",
+          "text": "He leads the rebellion through physical courage."
+        },
+        {
+          "id": "C",
+          "text": "He is the only animal who consistently opposes Napoleon."
+        },
+        {
+          "id": "D",
+          "text": "He represents the working class that is exploited by the pigs."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes.",
+      "explanation": "Squealer is the regime's voice: he distorts truth, reframes abuse, and manufactures consent.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Squealer as propagandist"
+      ],
+      "points": 14
+    },
+    {
+      "id": "AF-SA-137",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Squealer as propagandist",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: Write a 30-60 word answer explaining how Squealer as propagandist connects to allegory in Animal Farm.",
+      "requiredKeywords": [
+        "squealer",
+        "allegory"
+      ],
+      "sampleAnswer": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Squealer is the regime's voice: he distorts truth, reframes abuse, and manufactures consent.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Squealer as propagandist"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-138",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Boxer van scene",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: Why is Boxer's removal in the van a moment of tragic irony? Focus on tragic irony.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Boxer knowingly betrays the other animals."
+        },
+        {
+          "id": "B",
+          "text": "The animals immediately overthrow Napoleon after reading the van."
+        },
+        {
+          "id": "C",
+          "text": "The loyal worker trusts the system that secretly sells him to his death."
+        },
+        {
+          "id": "D",
+          "text": "The van proves retirement was honestly provided."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "The loyal worker trusts the system that secretly sells him to his death.",
+      "explanation": "The audience understands the betrayal while Boxer remains tragically vulnerable.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Boxer van scene"
+      ],
+      "points": 14
+    },
+    {
+      "id": "AF-SA-139",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Boxer van scene",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: Write a 30-60 word answer explaining how Boxer van scene connects to tragic irony in Animal Farm.",
+      "requiredKeywords": [
+        "boxer",
+        "tragic"
+      ],
+      "sampleAnswer": "The loyal worker trusts the system that secretly sells him to his death. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "The audience understands the betrayal while Boxer remains tragically vulnerable.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Boxer van scene"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-140",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Benjamin",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: What does Benjamin's reaction to Boxer's van reveal? Focus on disillusionment.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer."
+        },
+        {
+          "id": "B",
+          "text": "He has always been fully optimistic about Animalism."
+        },
+        {
+          "id": "C",
+          "text": "He is unable to read the words on the van."
+        },
+        {
+          "id": "D",
+          "text": "He is responsible for planning Napoleon's propaganda."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer.",
+      "explanation": "Benjamin knows enough to see the truth, but his usual detachment cannot undo the betrayal.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Benjamin"
+      ],
+      "points": 14
+    },
+    {
+      "id": "AF-SA-141",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Benjamin",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: Write a 30-60 word answer explaining how Benjamin connects to disillusionment in Animal Farm.",
+      "requiredKeywords": [
+        "benjamin",
+        "disillusionment"
+      ],
+      "sampleAnswer": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Benjamin knows enough to see the truth, but his usual detachment cannot undo the betrayal.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Benjamin"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-142",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Clover",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: What does Clover's desperate chase after the van emphasise? Focus on visual imagery.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals."
+        },
+        {
+          "id": "B",
+          "text": "Her indifference toward Boxer's fate."
+        },
+        {
+          "id": "C",
+          "text": "Her complete understanding of propaganda from the start."
+        },
+        {
+          "id": "D",
+          "text": "Her desire to become one of the pigs."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals.",
+      "explanation": "Clover's physical struggle makes the emotional collapse of Animalism visible.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Clover"
+      ],
+      "points": 14
+    },
+    {
+      "id": "AF-SA-143",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Clover",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: Write a 30-60 word answer explaining how Clover connects to visual imagery in Animal Farm.",
+      "requiredKeywords": [
+        "clover",
+        "visual"
+      ],
+      "sampleAnswer": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Clover's physical struggle makes the emotional collapse of Animalism visible.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Clover"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-144",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Historical allegory",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: In the booklet's focus, Animal Farm should be read as what kind of work? Focus on allegory.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A realistic farming manual with no symbolic layer."
+        },
+        {
+          "id": "B",
+          "text": "A grammar workbook about passive voice."
+        },
+        {
+          "id": "C",
+          "text": "An allegory in which characters and events represent political figures, systems, and betrayals."
+        },
+        {
+          "id": "D",
+          "text": "A romance whose main purpose is courtship."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "An allegory in which characters and events represent political figures, systems, and betrayals.",
+      "explanation": "The exam asks students to connect story details to broader historical and political meanings.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Historical allegory"
+      ],
+      "points": 14
+    },
+    {
+      "id": "AF-SA-145",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Historical allegory",
+      "difficulty": "hard",
+      "prompt": "Practice set 4: Write a 30-60 word answer explaining how Historical allegory connects to allegory in Animal Farm.",
+      "requiredKeywords": [
+        "historical",
+        "allegory"
+      ],
+      "sampleAnswer": "An allegory in which characters and events represent political figures, systems, and betrayals. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "The exam asks students to connect story details to broader historical and political meanings.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Historical allegory"
+      ],
+      "points": 16
+    },
+    {
+      "id": "RT-146",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "ethos",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Which definition best matches ethos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "C",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "D",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "appeal to credibility, trust, authority, or moral character",
+      "explanation": "ethos means appeal to credibility, trust, authority, or moral character. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "ethos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-147",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "logos",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Which definition best matches logos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "C",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "D",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "appeal to logic, evidence, cause and effect, or reason",
+      "explanation": "logos means appeal to logic, evidence, cause and effect, or reason. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "logos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-148",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "pathos",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Which definition best matches pathos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "C",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "D",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "appeal to emotion such as fear, pity, pride, or hope",
+      "explanation": "pathos means appeal to emotion such as fear, pity, pride, or hope. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "pathos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-149",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "bandwagon",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Which definition best matches bandwagon?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "D",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "pressure to agree because everyone supposedly does",
+      "explanation": "bandwagon means pressure to agree because everyone supposedly does. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "bandwagon"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-150",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "loaded words",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Which definition best matches loaded words?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "emotionally charged language used to influence judgement"
+        },
+        {
+          "id": "D",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "emotionally charged language used to influence judgement",
+      "explanation": "loaded words means emotionally charged language used to influence judgement. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "loaded words"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-151",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "repetition",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Which definition best matches repetition?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "D",
+          "text": "reusing words or structures to make an idea memorable"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "reusing words or structures to make an idea memorable",
+      "explanation": "repetition means reusing words or structures to make an idea memorable. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "repetition"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-152",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "call to action",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Which definition best matches call to action?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "D",
+          "text": "a direct push for the audience to do something"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "a direct push for the audience to do something",
+      "explanation": "call to action means a direct push for the audience to do something. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "call to action"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-153",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "relative clauses",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Choose the sentence with a correct non-defining relative clause.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Aunty Ifeoma, which encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "B",
+          "text": "Aunty Ifeoma, whose encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "C",
+          "text": "Aunty Ifeoma, who encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "D",
+          "text": "Aunty Ifeoma who encourages open debate acts as a foil to Papa."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Aunty Ifeoma, who encourages open debate, acts as a foil to Papa.",
+      "explanation": "Non-defining clauses add extra information and need commas; use \"who\" for people.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "relative clauses"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-154",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "passive voice",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Which sentence uses the passive voice accurately?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Boxer takes away the van by the animals."
+        },
+        {
+          "id": "B",
+          "text": "The animals taking Boxer away is passive voice."
+        },
+        {
+          "id": "C",
+          "text": "Boxer has take away in a van."
+        },
+        {
+          "id": "D",
+          "text": "Boxer is taken away in a van marked by words the animals slowly understand."
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "Boxer is taken away in a van marked by words the animals slowly understand.",
+      "explanation": "Passive voice uses a form of \"be\" plus the past participle: is taken, was written, were betrayed.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "passive voice"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-155",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "adjective/adverb",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Choose the sentence with the correct adjective/adverb form.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Squealer speaks persuasively, but his argument is dishonestly."
+        },
+        {
+          "id": "B",
+          "text": "Squealer speaks persuasively, but his argument is dishonest."
+        },
+        {
+          "id": "C",
+          "text": "Squealer speaks persuasive, but his argument is dishonestly."
+        },
+        {
+          "id": "D",
+          "text": "Squealer speaks persuasive, but his argument is dishonest."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "Squealer speaks persuasively, but his argument is dishonest.",
+      "explanation": "Adverbs usually modify verbs; adjectives modify nouns.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "adjective/adverb"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-156",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "order of adjectives",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Which phrase uses the most natural order of adjectives?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "an old wooden small box"
+        },
+        {
+          "id": "B",
+          "text": "a small wooden old box"
+        },
+        {
+          "id": "C",
+          "text": "a small old wooden box"
+        },
+        {
+          "id": "D",
+          "text": "a wooden small old box"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "a small old wooden box",
+      "explanation": "English adjective order usually moves from size/age/material before the noun.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "order of adjectives"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-157",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "tense contrast",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Choose the sentence that correctly combines past simple and past continuous.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Clover has running after the van when Boxer appears at the window."
+        },
+        {
+          "id": "B",
+          "text": "Clover was run after the van when Boxer appearing at the window."
+        },
+        {
+          "id": "C",
+          "text": "Clover was running after the van when Boxer appeared at the window."
+        },
+        {
+          "id": "D",
+          "text": "Clover ran after the van when Boxer was appear at the window."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Clover was running after the van when Boxer appeared at the window.",
+      "explanation": "Past continuous describes the ongoing action; past simple marks the interrupting event.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "tense contrast"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-158",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "present perfect",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Which sentence uses the present perfect correctly?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kambili has learned that silence can be challenged."
+        },
+        {
+          "id": "B",
+          "text": "Kambili has learn that silence can be challenged."
+        },
+        {
+          "id": "C",
+          "text": "Kambili learned since that silence can be challenged."
+        },
+        {
+          "id": "D",
+          "text": "Kambili have learned that silence can be challenged."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Kambili has learned that silence can be challenged.",
+      "explanation": "Present perfect uses has/have plus past participle and can connect past learning to the present.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "present perfect"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-159",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "cleft sentence",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Which sentence uses a cleft structure correctly?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It is Squealer who turns Napoleon's decisions into persuasive propaganda."
+        },
+        {
+          "id": "B",
+          "text": "It is Squealer which turn Napoleon's decisions."
+        },
+        {
+          "id": "C",
+          "text": "What is Squealer who turns Napoleon's decisions."
+        },
+        {
+          "id": "D",
+          "text": "It Squealer who turns Napoleon's decisions into persuasive propaganda."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "It is Squealer who turns Napoleon's decisions into persuasive propaganda.",
+      "explanation": "Cleft sentences emphasise information using structures like \"It is X who...\" or \"What...\"",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "cleft sentence"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-160",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "negative inversion",
+      "difficulty": "easy",
+      "prompt": "Practice set 4: Choose the correct negative inversion.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Never had the animals felt such painful disillusionment."
+        },
+        {
+          "id": "B",
+          "text": "Never felt the animals had such painful disillusionment."
+        },
+        {
+          "id": "C",
+          "text": "Never the animals had felt such painful disillusionment."
+        },
+        {
+          "id": "D",
+          "text": "Never have the animals felt yesterday such painful disillusionment."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Never had the animals felt such painful disillusionment.",
+      "explanation": "After negative adverbials like \"Never\", invert the auxiliary and subject: had the animals.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "negative inversion"
+      ],
+      "points": 8
+    },
+    {
+      "id": "WR-161",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "analytical tone",
+      "difficulty": "medium",
+      "prompt": "Practice set 4: Which sentence best avoids weak phrases such as \"we can see\"?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "We can see that the character is sad."
+        },
+        {
+          "id": "B",
+          "text": "We have a metaphor and it is nice."
+        },
+        {
+          "id": "C",
+          "text": "You can see there is some imagery maybe."
+        },
+        {
+          "id": "D",
+          "text": "The imagery of darkness conveys the character's emotional isolation."
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "The imagery of darkness conveys the character's emotional isolation.",
+      "explanation": "Strong analysis makes a precise claim and explains the effect of the technique.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "analytical tone"
+      ],
+      "points": 10
+    },
+    {
+      "id": "WR-162",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "micro-quoting",
+      "difficulty": "medium",
+      "prompt": "Practice set 4: Which response uses a micro-quote most effectively?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The whole paragraph proves everything about Jaja."
+        },
+        {
+          "id": "B",
+          "text": "The phrase \"piercing light\" symbolises Jaja's awakening independence."
+        },
+        {
+          "id": "C",
+          "text": "Jaja changes because I remember that he changes."
+        },
+        {
+          "id": "D",
+          "text": "There is a quote somewhere about eyes."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "The phrase \"piercing light\" symbolises Jaja's awakening independence.",
+      "explanation": "A micro-quote is short, integrated, and immediately analysed.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "micro-quoting"
+      ],
+      "points": 10
+    },
+    {
+      "id": "WR-163",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "STEAL method",
+      "difficulty": "medium",
+      "prompt": "Practice set 4: In STEAL analysis, what does the \"E\" stand for?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Emotion"
+        },
+        {
+          "id": "B",
+          "text": "Effect on others"
+        },
+        {
+          "id": "C",
+          "text": "Evidence only"
+        },
+        {
+          "id": "D",
+          "text": "Ending"
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "Effect on others",
+      "explanation": "STEAL stands for Speech, Thoughts, Effect on others, Actions, Looks.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "STEAL method"
+      ],
+      "points": 10
+    },
+    {
+      "id": "WR-164",
+      "type": "multiple-choice",
+      "domain": "Analytical and creative exam writing",
+      "topic": "exam strategy",
+      "difficulty": "medium",
+      "prompt": "Practice set 4: Which exam strategy best matches the booklet?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Write every essay fully in pencil before using pen."
+        },
+        {
+          "id": "B",
+          "text": "Spend the final minutes starting a new question without reviewing."
+        },
+        {
+          "id": "C",
+          "text": "Ignore key words in the prompt."
+        },
+        {
+          "id": "D",
+          "text": "Read first, start with easier questions, plan open responses, and review at the end."
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "Read first, start with easier questions, plan open responses, and review at the end.",
+      "explanation": "The booklet stresses planning, prompt focus, and review time.",
+      "skillTags": [
+        "Analytical and creative exam writing",
+        "exam strategy"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-165",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Kambili's physical paralysis",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: What does Adichie suggest through Kambili's repeated inability to speak? Consider the booklet focus on recurring imagery and the detail \"lips held stubbornly together / could not move my tongue\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kambili is uninterested in the people around her."
+        },
+        {
+          "id": "B",
+          "text": "Her silence is a physical sign of internal conflict and fear created by Papa's control."
+        },
+        {
+          "id": "C",
+          "text": "The scene mainly proves that Kambili dislikes food."
+        },
+        {
+          "id": "D",
+          "text": "Kambili refuses to speak because she wants to punish Amaka."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "Her silence is a physical sign of internal conflict and fear created by Papa's control.",
+      "explanation": "The strongest reading connects the bodily imagery to repression, fear, and self-expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Kambili's physical paralysis"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-166",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Kambili's physical paralysis",
+      "difficulty": "hard",
+      "prompt": "Practice set 5: In 25-50 words, analyse how recurring imagery deepens the meaning of Kambili's physical paralysis. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "recurring",
+        "kambili's"
+      ],
+      "sampleAnswer": "Her silence is a physical sign of internal conflict and fear created by Papa's control. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The strongest reading connects the bodily imagery to repression, fear, and self-expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Kambili's physical paralysis"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-167",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Jaja in Nsukka",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: What does the \"piercing light\" in Jaja's eyes most strongly symbolise? Consider the booklet focus on symbolism and the detail \"piercing light in his eyes\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A loss of interest in politics and history."
+        },
+        {
+          "id": "B",
+          "text": "A new independence that begins to challenge Papa's authority."
+        },
+        {
+          "id": "C",
+          "text": "A sudden illness caused by the heat."
+        },
+        {
+          "id": "D",
+          "text": "A return to complete obedience at home."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "A new independence that begins to challenge Papa's authority.",
+      "explanation": "Jaja becomes more dynamic in Nsukka; the light signals awakening and resistance.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Jaja in Nsukka"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-168",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Jaja in Nsukka",
+      "difficulty": "hard",
+      "prompt": "Practice set 5: In 25-50 words, analyse how symbolism deepens the meaning of Jaja in Nsukka. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "symbolism",
+        "jaja"
+      ],
+      "sampleAnswer": "A new independence that begins to challenge Papa's authority. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "Jaja becomes more dynamic in Nsukka; the light signals awakening and resistance.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Jaja in Nsukka"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-169",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Enugu versus Nsukka",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: Why is the contrast between Enugu and Nsukka important? Consider the booklet focus on juxtaposition and the detail \"home / Aunty Ifeoma's garden\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change."
+        },
+        {
+          "id": "B",
+          "text": "It removes the importance of family relationships."
+        },
+        {
+          "id": "C",
+          "text": "It proves that all conflict in the novel is caused by weather."
+        },
+        {
+          "id": "D",
+          "text": "It shows that Kambili and Jaja have no internal conflict."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change.",
+      "explanation": "The homes work as contrasting social worlds: control in Enugu, possibility in Nsukka.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Enugu versus Nsukka"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-170",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Enugu versus Nsukka",
+      "difficulty": "hard",
+      "prompt": "Practice set 5: In 25-50 words, analyse how juxtaposition deepens the meaning of Enugu versus Nsukka. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "juxtaposition",
+        "enugu"
+      ],
+      "sampleAnswer": "It juxtaposes oppression with freedom, showing how setting can catalyse identity change. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The homes work as contrasting social worlds: control in Enugu, possibility in Nsukka.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Enugu versus Nsukka"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-171",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Amaka and Kambili",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: How does Amaka function as a foil to Kambili? Consider the booklet focus on character foil and the detail \"atulu\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Amaka's blunt speech highlights Kambili's silence and lack of agency."
+        },
+        {
+          "id": "B",
+          "text": "Amaka and Kambili are identical in confidence and speech."
+        },
+        {
+          "id": "C",
+          "text": "Amaka exists only to explain the plot chronologically."
+        },
+        {
+          "id": "D",
+          "text": "Amaka proves Kambili is naturally cruel."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Amaka's blunt speech highlights Kambili's silence and lack of agency.",
+      "explanation": "A foil exposes a character by contrast. Amaka makes Kambili's repression visible.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Amaka and Kambili"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-172",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Amaka and Kambili",
+      "difficulty": "hard",
+      "prompt": "Practice set 5: In 25-50 words, analyse how character foil deepens the meaning of Amaka and Kambili. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "character",
+        "amaka"
+      ],
+      "sampleAnswer": "Amaka's blunt speech highlights Kambili's silence and lack of agency. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "A foil exposes a character by contrast. Amaka makes Kambili's repression visible.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Amaka and Kambili"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-173",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Father Amadi",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: Why can Father Amadi be read as a catalyst for Kambili? Consider the booklet focus on catalyst and the detail \"I haven't seen you laugh or smile today\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "He notices her joy and humanity, challenging her single story of herself as silent."
+        },
+        {
+          "id": "B",
+          "text": "He makes her reject all forms of faith."
+        },
+        {
+          "id": "C",
+          "text": "He prevents her from developing any self-awareness."
+        },
+        {
+          "id": "D",
+          "text": "He pressures her to imitate Papa's strictness."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "He notices her joy and humanity, challenging her single story of herself as silent.",
+      "explanation": "A catalyst triggers change. Father Amadi draws attention to Kambili's buried desire for expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Father Amadi"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-174",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Father Amadi",
+      "difficulty": "hard",
+      "prompt": "Practice set 5: In 25-50 words, analyse how catalyst deepens the meaning of Father Amadi. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "catalyst",
+        "father"
+      ],
+      "sampleAnswer": "He notices her joy and humanity, challenging her single story of herself as silent. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "A catalyst triggers change. Father Amadi draws attention to Kambili's buried desire for expression.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Father Amadi"
+      ],
+      "points": 16
+    },
+    {
+      "id": "PH-175",
+      "type": "multiple-choice",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Ube scene",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: What does the ube most plausibly symbolise in the Father Amadi scene? Consider the booklet focus on sensory symbolism and the detail \"could not lick the ube flesh from the seed\".",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A symbol that Papa has become more permissive."
+        },
+        {
+          "id": "B",
+          "text": "A simple dislike of Nigerian food."
+        },
+        {
+          "id": "C",
+          "text": "Kambili's difficulty engaging with desire while feeling watched and judged."
+        },
+        {
+          "id": "D",
+          "text": "A comic break with no link to characterisation."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Kambili's difficulty engaging with desire while feeling watched and judged.",
+      "explanation": "The sensory image turns attraction, shame, and self-consciousness into a concrete action.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Ube scene"
+      ],
+      "points": 10
+    },
+    {
+      "id": "PH-SA-176",
+      "type": "short-answer",
+      "domain": "Purple Hibiscus: character, structure, symbolism",
+      "topic": "Ube scene",
+      "difficulty": "hard",
+      "prompt": "Practice set 5: In 25-50 words, analyse how sensory symbolism deepens the meaning of Ube scene. Use one precise term and avoid \"we can see\".",
+      "requiredKeywords": [
+        "sensory",
+        "ube"
+      ],
+      "sampleAnswer": "Kambili's difficulty engaging with desire while feeling watched and judged. This matters because the technique moves the answer beyond plot summary into interpretation.",
+      "explanation": "The sensory image turns attraction, shame, and self-consciousness into a concrete action.",
+      "skillTags": [
+        "Purple Hibiscus: character, structure, symbolism",
+        "Ube scene"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-177",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Squealer as propagandist",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: What is Squealer's central role in Animal Farm? Focus on allegory.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes."
+        },
+        {
+          "id": "B",
+          "text": "He leads the rebellion through physical courage."
+        },
+        {
+          "id": "C",
+          "text": "He is the only animal who consistently opposes Napoleon."
+        },
+        {
+          "id": "D",
+          "text": "He represents the working class that is exploited by the pigs."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes.",
+      "explanation": "Squealer is the regime's voice: he distorts truth, reframes abuse, and manufactures consent.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Squealer as propagandist"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-178",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Squealer as propagandist",
+      "difficulty": "hard",
+      "prompt": "Practice set 5: Write a 30-60 word answer explaining how Squealer as propagandist connects to allegory in Animal Farm.",
+      "requiredKeywords": [
+        "squealer",
+        "allegory"
+      ],
+      "sampleAnswer": "He manipulates language to protect Napoleon's power and represents propaganda in totalitarian regimes. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Squealer is the regime's voice: he distorts truth, reframes abuse, and manufactures consent.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Squealer as propagandist"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-179",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Boxer van scene",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: Why is Boxer's removal in the van a moment of tragic irony? Focus on tragic irony.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Boxer knowingly betrays the other animals."
+        },
+        {
+          "id": "B",
+          "text": "The animals immediately overthrow Napoleon after reading the van."
+        },
+        {
+          "id": "C",
+          "text": "The loyal worker trusts the system that secretly sells him to his death."
+        },
+        {
+          "id": "D",
+          "text": "The van proves retirement was honestly provided."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "The loyal worker trusts the system that secretly sells him to his death.",
+      "explanation": "The audience understands the betrayal while Boxer remains tragically vulnerable.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Boxer van scene"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-180",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Boxer van scene",
+      "difficulty": "hard",
+      "prompt": "Practice set 5: Write a 30-60 word answer explaining how Boxer van scene connects to tragic irony in Animal Farm.",
+      "requiredKeywords": [
+        "boxer",
+        "tragic"
+      ],
+      "sampleAnswer": "The loyal worker trusts the system that secretly sells him to his death. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "The audience understands the betrayal while Boxer remains tragically vulnerable.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Boxer van scene"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-181",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Benjamin",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: What does Benjamin's reaction to Boxer's van reveal? Focus on disillusionment.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer."
+        },
+        {
+          "id": "B",
+          "text": "He has always been fully optimistic about Animalism."
+        },
+        {
+          "id": "C",
+          "text": "He is unable to read the words on the van."
+        },
+        {
+          "id": "D",
+          "text": "He is responsible for planning Napoleon's propaganda."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer.",
+      "explanation": "Benjamin knows enough to see the truth, but his usual detachment cannot undo the betrayal.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Benjamin"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-182",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Benjamin",
+      "difficulty": "hard",
+      "prompt": "Practice set 5: Write a 30-60 word answer explaining how Benjamin connects to disillusionment in Animal Farm.",
+      "requiredKeywords": [
+        "benjamin",
+        "disillusionment"
+      ],
+      "sampleAnswer": "His cynicism becomes urgent regret because passive knowledge has not protected Boxer. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Benjamin knows enough to see the truth, but his usual detachment cannot undo the betrayal.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Benjamin"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-183",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Clover",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: What does Clover's desperate chase after the van emphasise? Focus on visual imagery.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals."
+        },
+        {
+          "id": "B",
+          "text": "Her indifference toward Boxer's fate."
+        },
+        {
+          "id": "C",
+          "text": "Her complete understanding of propaganda from the start."
+        },
+        {
+          "id": "D",
+          "text": "Her desire to become one of the pigs."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals.",
+      "explanation": "Clover's physical struggle makes the emotional collapse of Animalism visible.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Clover"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-184",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Clover",
+      "difficulty": "hard",
+      "prompt": "Practice set 5: Write a 30-60 word answer explaining how Clover connects to visual imagery in Animal Farm.",
+      "requiredKeywords": [
+        "clover",
+        "visual"
+      ],
+      "sampleAnswer": "Her maternal loyalty and the horror of realising the farm has betrayed its ideals. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "Clover's physical struggle makes the emotional collapse of Animalism visible.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Clover"
+      ],
+      "points": 16
+    },
+    {
+      "id": "AF-185",
+      "type": "multiple-choice",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Historical allegory",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: In the booklet's focus, Animal Farm should be read as what kind of work? Focus on allegory.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A realistic farming manual with no symbolic layer."
+        },
+        {
+          "id": "B",
+          "text": "A grammar workbook about passive voice."
+        },
+        {
+          "id": "C",
+          "text": "An allegory in which characters and events represent political figures, systems, and betrayals."
+        },
+        {
+          "id": "D",
+          "text": "A romance whose main purpose is courtship."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "An allegory in which characters and events represent political figures, systems, and betrayals.",
+      "explanation": "The exam asks students to connect story details to broader historical and political meanings.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Historical allegory"
+      ],
+      "points": 10
+    },
+    {
+      "id": "AF-SA-186",
+      "type": "short-answer",
+      "domain": "Animal Farm: allegory, propaganda, disillusionment",
+      "topic": "Historical allegory",
+      "difficulty": "hard",
+      "prompt": "Practice set 5: Write a 30-60 word answer explaining how Historical allegory connects to allegory in Animal Farm.",
+      "requiredKeywords": [
+        "historical",
+        "allegory"
+      ],
+      "sampleAnswer": "An allegory in which characters and events represent political figures, systems, and betrayals. A high-scoring answer links the event to Orwell's wider critique of political control.",
+      "explanation": "The exam asks students to connect story details to broader historical and political meanings.",
+      "skillTags": [
+        "Animal Farm: allegory, propaganda, disillusionment",
+        "Historical allegory"
+      ],
+      "points": 16
+    },
+    {
+      "id": "RT-187",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "ethos",
+      "difficulty": "easy",
+      "prompt": "Practice set 5: Which definition best matches ethos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "C",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "D",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "appeal to credibility, trust, authority, or moral character",
+      "explanation": "ethos means appeal to credibility, trust, authority, or moral character. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "ethos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-188",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "logos",
+      "difficulty": "easy",
+      "prompt": "Practice set 5: Which definition best matches logos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "C",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "D",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "appeal to logic, evidence, cause and effect, or reason",
+      "explanation": "logos means appeal to logic, evidence, cause and effect, or reason. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "logos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-189",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "pathos",
+      "difficulty": "easy",
+      "prompt": "Practice set 5: Which definition best matches pathos?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "C",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "D",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "appeal to emotion such as fear, pity, pride, or hope",
+      "explanation": "pathos means appeal to emotion such as fear, pity, pride, or hope. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "pathos"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-190",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "bandwagon",
+      "difficulty": "easy",
+      "prompt": "Practice set 5: Which definition best matches bandwagon?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "pressure to agree because everyone supposedly does"
+        },
+        {
+          "id": "D",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "pressure to agree because everyone supposedly does",
+      "explanation": "bandwagon means pressure to agree because everyone supposedly does. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "bandwagon"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-191",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "loaded words",
+      "difficulty": "easy",
+      "prompt": "Practice set 5: Which definition best matches loaded words?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "emotionally charged language used to influence judgement"
+        },
+        {
+          "id": "D",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "emotionally charged language used to influence judgement",
+      "explanation": "loaded words means emotionally charged language used to influence judgement. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "loaded words"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-192",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "repetition",
+      "difficulty": "easy",
+      "prompt": "Practice set 5: Which definition best matches repetition?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "D",
+          "text": "reusing words or structures to make an idea memorable"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "reusing words or structures to make an idea memorable",
+      "explanation": "repetition means reusing words or structures to make an idea memorable. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "repetition"
+      ],
+      "points": 8
+    },
+    {
+      "id": "RT-193",
+      "type": "multiple-choice",
+      "domain": "Rhetorical techniques and propaganda",
+      "topic": "call to action",
+      "difficulty": "easy",
+      "prompt": "Practice set 5: Which definition best matches call to action?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "appeal to credibility, trust, authority, or moral character"
+        },
+        {
+          "id": "B",
+          "text": "appeal to emotion such as fear, pity, pride, or hope"
+        },
+        {
+          "id": "C",
+          "text": "appeal to logic, evidence, cause and effect, or reason"
+        },
+        {
+          "id": "D",
+          "text": "a direct push for the audience to do something"
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "a direct push for the audience to do something",
+      "explanation": "call to action means a direct push for the audience to do something. In analysis, name the technique and explain its effect on the audience.",
+      "skillTags": [
+        "Rhetorical techniques and propaganda",
+        "call to action"
+      ],
+      "points": 8
+    },
+    {
+      "id": "GR-194",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "relative clauses",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: Choose the sentence with a correct non-defining relative clause.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Aunty Ifeoma, which encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "B",
+          "text": "Aunty Ifeoma, whose encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "C",
+          "text": "Aunty Ifeoma, who encourages open debate, acts as a foil to Papa."
+        },
+        {
+          "id": "D",
+          "text": "Aunty Ifeoma who encourages open debate acts as a foil to Papa."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Aunty Ifeoma, who encourages open debate, acts as a foil to Papa.",
+      "explanation": "Non-defining clauses add extra information and need commas; use \"who\" for people.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "relative clauses"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-195",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "passive voice",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: Which sentence uses the passive voice accurately?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Boxer takes away the van by the animals."
+        },
+        {
+          "id": "B",
+          "text": "The animals taking Boxer away is passive voice."
+        },
+        {
+          "id": "C",
+          "text": "Boxer has take away in a van."
+        },
+        {
+          "id": "D",
+          "text": "Boxer is taken away in a van marked by words the animals slowly understand."
+        }
+      ],
+      "answer": "D",
+      "correctAnswer": "Boxer is taken away in a van marked by words the animals slowly understand.",
+      "explanation": "Passive voice uses a form of \"be\" plus the past participle: is taken, was written, were betrayed.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "passive voice"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-196",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "adjective/adverb",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: Choose the sentence with the correct adjective/adverb form.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Squealer speaks persuasively, but his argument is dishonestly."
+        },
+        {
+          "id": "B",
+          "text": "Squealer speaks persuasively, but his argument is dishonest."
+        },
+        {
+          "id": "C",
+          "text": "Squealer speaks persuasive, but his argument is dishonestly."
+        },
+        {
+          "id": "D",
+          "text": "Squealer speaks persuasive, but his argument is dishonest."
+        }
+      ],
+      "answer": "B",
+      "correctAnswer": "Squealer speaks persuasively, but his argument is dishonest.",
+      "explanation": "Adverbs usually modify verbs; adjectives modify nouns.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "adjective/adverb"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-197",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "order of adjectives",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: Which phrase uses the most natural order of adjectives?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "an old wooden small box"
+        },
+        {
+          "id": "B",
+          "text": "a small wooden old box"
+        },
+        {
+          "id": "C",
+          "text": "a small old wooden box"
+        },
+        {
+          "id": "D",
+          "text": "a wooden small old box"
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "a small old wooden box",
+      "explanation": "English adjective order usually moves from size/age/material before the noun.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "order of adjectives"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-198",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "tense contrast",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: Choose the sentence that correctly combines past simple and past continuous.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Clover has running after the van when Boxer appears at the window."
+        },
+        {
+          "id": "B",
+          "text": "Clover was run after the van when Boxer appearing at the window."
+        },
+        {
+          "id": "C",
+          "text": "Clover was running after the van when Boxer appeared at the window."
+        },
+        {
+          "id": "D",
+          "text": "Clover ran after the van when Boxer was appear at the window."
+        }
+      ],
+      "answer": "C",
+      "correctAnswer": "Clover was running after the van when Boxer appeared at the window.",
+      "explanation": "Past continuous describes the ongoing action; past simple marks the interrupting event.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "tense contrast"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-199",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "present perfect",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: Which sentence uses the present perfect correctly?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Kambili has learned that silence can be challenged."
+        },
+        {
+          "id": "B",
+          "text": "Kambili has learn that silence can be challenged."
+        },
+        {
+          "id": "C",
+          "text": "Kambili learned since that silence can be challenged."
+        },
+        {
+          "id": "D",
+          "text": "Kambili have learned that silence can be challenged."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "Kambili has learned that silence can be challenged.",
+      "explanation": "Present perfect uses has/have plus past participle and can connect past learning to the present.",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "present perfect"
+      ],
+      "points": 10
+    },
+    {
+      "id": "GR-200",
+      "type": "multiple-choice",
+      "domain": "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+      "topic": "cleft sentence",
+      "difficulty": "medium",
+      "prompt": "Practice set 5: Which sentence uses a cleft structure correctly?",
+      "choices": [
+        {
+          "id": "A",
+          "text": "It is Squealer who turns Napoleon's decisions into persuasive propaganda."
+        },
+        {
+          "id": "B",
+          "text": "It is Squealer which turn Napoleon's decisions."
+        },
+        {
+          "id": "C",
+          "text": "What is Squealer who turns Napoleon's decisions."
+        },
+        {
+          "id": "D",
+          "text": "It Squealer who turns Napoleon's decisions into persuasive propaganda."
+        }
+      ],
+      "answer": "A",
+      "correctAnswer": "It is Squealer who turns Napoleon's decisions into persuasive propaganda.",
+      "explanation": "Cleft sentences emphasise information using structures like \"It is X who...\" or \"What...\"",
+      "skillTags": [
+        "Grammar: tense, clauses, passive voice, adjectives/adverbs",
+        "cleft sentence"
+      ],
+      "points": 10
+    }
+  ]
+};
